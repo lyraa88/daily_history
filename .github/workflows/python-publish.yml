@@ -38,7 +38,7 @@ jobs:
             git commit -m "📅 한글 오늘의 역사 자동 업데이트 (`date +'%Y-%m-%d'`)"
             git push
           fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        # env:
+        #   GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
 
 
