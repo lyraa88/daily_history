@@ -1,5 +1,4 @@
-## 📅 과거 August 6
-에 일어난 일은?
+## 📅 과거 August 6에 일어난 일은?
 **686년**
 - Umayyad 세력은 Khazir 전투에서 Ibrahim Ibn Al-Ashtar의 전직 세력에 대한 결정적인 패배를 겪었습니다.  [Wikipedia](https://wikipedia.org/wiki/Ummayad)
 
