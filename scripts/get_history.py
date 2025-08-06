@@ -20,7 +20,7 @@ events = data["data"]["Events"]
 
 translator = Translator()
 
-lines = [f"## 📅 오늘의 역사: {data['date']}\n"]
+lines = [f"## 📅 과거 {data['date']}\n에 일어난 일은?"]
 
 for event in events[:5]:
     year = event["year"]
