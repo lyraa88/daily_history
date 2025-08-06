@@ -1,4 +1,15 @@
-## 📅 과거 August 6에 일어난 일은?
+
+
+이 레포지토리는 [MuffinLabs의 History API](https://history.muffinlabs.com/date)로부터  
+**매일 00:00(KST)** 기준으로 데이터를 가져와 자동으로 업데이트됩니다.
+
+5개의 주요 역사적 사건이 한국어로 번역되어 요약되며, 원본 출처는 Wikipedia입니다.
+
+---
+
+## 📅 과거 **August 6**에 일어난 주요 사건들
+
+---
 **686년**
 - Umayyad 세력은 Khazir 전투에서 Ibrahim Ibn Al-Ashtar의 전직 세력에 대한 결정적인 패배를 겪었습니다.  [Wikipedia](https://wikipedia.org/wiki/Ummayad)
 
