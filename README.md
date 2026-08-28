@@ -14,7 +14,7 @@
 - 로마 장군 오레스테스는 서부 로마 황제 율리우스 네포스를 그의 수도인 라벤나에서 쫓아내도록 강요합니다.  [Wikipedia](https://wikipedia.org/wiki/Roman_Empire)
 
 **489년**
-- 동고트족의 왕 테오도리크는 이손조 전투에서 오도아케르를 물리치고 이탈리아로 진군합니다.  [Wikipedia](https://wikipedia.org/wiki/Theodoric_the_Great)
+- 동고트족의 왕 테오도리크는 이손초 전투에서 오도아케르를 물리치고 이탈리아로 진군합니다.  [Wikipedia](https://wikipedia.org/wiki/Theodoric_the_Great)
 
 **632년**
 - 이슬람 예언자 무함마드의 딸 파티마가 사망했는데, 그녀의 사망 원인은 수니파 무슬림과 시아파 무슬림 사이에서 논란이 되고 있다.  [Wikipedia](https://wikipedia.org/wiki/Fatimah)
