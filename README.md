@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 10**에 일어난 주요 사건들
+## 📅 과거 **October 11**에 일어난 주요 사건들
 
 ---
-**19년**
-- 로마 장군 게르마니쿠스가 안티오키아 근처에서 사망합니다.그는 자신의 죽음으로 끝난 신비한 질병이 자신이 그 지방을 떠나라고 명령한 시리아 총독 그나이우스 칼푸르니우스 피소(Gnaeus Calpurnius Piso)의 중독의 결과라고 확신했습니다.  [Wikipedia](https://wikipedia.org/wiki/Germanicus)
+**1138년**
+- 대규모 지진이 알레포를 강타했습니다.그것은 지금까지 가장 파괴적인 지진 중 하나입니다.  [Wikipedia](https://wikipedia.org/wiki/1138_Aleppo_earthquake)
 
-**680년**
-- 카르발라 전투는 후세인 이븐 알리의 순교를 기념합니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Karbala)
+**1142년**
+- 평화 조약으로 진송 전쟁이 끝났습니다.  [Wikipedia](https://wikipedia.org/wiki/Treaty_of_Shaoxing)
 
-**732년**
-- Charles Martel의 군대가 프랑스 투르 근처에서 Umayyad 군대를 격파했습니다.  [Wikipedia](https://wikipedia.org/wiki/Charles_Martel)
+**1311년**
+- 귀족과 성직자는 1311년 법령으로 영국 왕의 권위를 제한했습니다.  [Wikipedia](https://wikipedia.org/wiki/England)
 
-**1471년**
-- 스웨덴의 섭정인 스텐 스투레(Sten Sture)는 농부와 광부의 도움을 받아 덴마크 국왕 크리스티안 1세의 공격을 격퇴합니다.  [Wikipedia](https://wikipedia.org/wiki/Sten_Sture_the_Elder)
+**1614년**
+- New Netherland Company는 현재 미국 북동부 지역의 독점 거래권을 네덜란드 총독에게 신청합니다.  [Wikipedia](https://wikipedia.org/wiki/New_Netherland_Company)
 
-**1492년**
-- 크리스토퍼 콜럼버스의 배인 산타마리아호의 선원들이 반란을 시도합니다.  [Wikipedia](https://wikipedia.org/wiki/Christopher_Columbus)
+**1634년**
+- 부르차르디(Burchardi) 홍수로 덴마크, 독일, 노스 프리슬란트(North Friesland)에서 약 15,000명이 사망했습니다.  [Wikipedia](https://wikipedia.org/wiki/Burchardi_flood)
