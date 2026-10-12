@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 11**에 일어난 주요 사건들
+## 📅 과거 **October 12**에 일어난 주요 사건들
 
 ---
-**1138년**
-- 대규모 지진이 알레포를 강타했습니다.그것은 지금까지 가장 파괴적인 지진 중 하나입니다.  [Wikipedia](https://wikipedia.org/wiki/1138_Aleppo_earthquake)
+**539 BC년**
+- 페르시아의 키루스 대왕의 군대가 바빌론을 정복하여 바빌로니아 제국을 멸망시켰습니다.(율리우스력)  [Wikipedia](https://wikipedia.org/wiki/Cyrus_the_Great)
 
-**1142년**
-- 평화 조약으로 진송 전쟁이 끝났습니다.  [Wikipedia](https://wikipedia.org/wiki/Treaty_of_Shaoxing)
+**633년**
+- 해트필드 체이스 전투: 노섬브리아의 에드윈 왕이 머시아의 펜다와 기네드의 캐드왈론이 이끄는 동맹에 의해 패배하고 살해됩니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Hatfield_Chase)
 
-**1311년**
-- 귀족과 성직자는 1311년 법령으로 영국 왕의 권위를 제한했습니다.  [Wikipedia](https://wikipedia.org/wiki/England)
+**1279년**
+- 일본에서 니치렌종종(Nichiren Shōshū) 불교 종파가 설립되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Nichiren_Sh%C5%8Dsh%C5%AB)
 
-**1614년**
-- New Netherland Company는 현재 미국 북동부 지역의 독점 거래권을 네덜란드 총독에게 신청합니다.  [Wikipedia](https://wikipedia.org/wiki/New_Netherland_Company)
+**1398년**
+- 살리나스 조약에서 리투아니아는 사모기티아를 튜턴 기사단에게 양도합니다.  [Wikipedia](https://wikipedia.org/wiki/Treaty_of_Salynas)
 
-**1634년**
-- 부르차르디(Burchardi) 홍수로 덴마크, 독일, 노스 프리슬란트(North Friesland)에서 약 15,000명이 사망했습니다.  [Wikipedia](https://wikipedia.org/wiki/Burchardi_flood)
+**1406년**
+- 인도네시아인 중 유일하게 조선을 방문한 것으로 알려진 천옌샹(陳燕祥)은 4개월 전 자바에서 출발해 서울에 도착한다.  [Wikipedia](https://wikipedia.org/wiki/Chen_Yanxiang)
