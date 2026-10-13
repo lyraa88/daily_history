@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 12**에 일어난 주요 사건들
+## 📅 과거 **October 13**에 일어난 주요 사건들
 
 ---
-**539 BC년**
-- 페르시아의 키루스 대왕의 군대가 바빌론을 정복하여 바빌로니아 제국을 멸망시켰습니다.(율리우스력)  [Wikipedia](https://wikipedia.org/wiki/Cyrus_the_Great)
+**54년**
+- 로마 황제 클라우디우스는 신비한 상황에서 중독으로 사망합니다.그의 뒤를 이어 메살리나와의 사이에서 태어난 브리타니쿠스(Britannicus)가 아닌 입양아들 네로(Nero)가 계승하게 됩니다.  [Wikipedia](https://wikipedia.org/wiki/Claudius)
 
-**633년**
-- 해트필드 체이스 전투: 노섬브리아의 에드윈 왕이 머시아의 펜다와 기네드의 캐드왈론이 이끄는 동맹에 의해 패배하고 살해됩니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Hatfield_Chase)
+**409년**
+- Vandals와 Alans는 피레네 산맥을 건너 Hispania에 나타납니다.  [Wikipedia](https://wikipedia.org/wiki/Vandals)
 
-**1279년**
-- 일본에서 니치렌종종(Nichiren Shōshū) 불교 종파가 설립되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Nichiren_Sh%C5%8Dsh%C5%AB)
+**1269년**
+- 현재 웨스트민스터 사원에 있는 교회 건물은 봉헌되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Westminster_Abbey)
 
-**1398년**
-- 살리나스 조약에서 리투아니아는 사모기티아를 튜턴 기사단에게 양도합니다.  [Wikipedia](https://wikipedia.org/wiki/Treaty_of_Salynas)
+**1307년**
+- 프랑스의 기사단 기사단 수백 명이 새벽에 공정한 필립 왕에 의해 체포되고 나중에 고문을 받고 이단으로 자백합니다.  [Wikipedia](https://wikipedia.org/wiki/Knights_Templar)
 
-**1406년**
-- 인도네시아인 중 유일하게 조선을 방문한 것으로 알려진 천옌샹(陳燕祥)은 4개월 전 자바에서 출발해 서울에 도착한다.  [Wikipedia](https://wikipedia.org/wiki/Chen_Yanxiang)
+**1332년**
+- 린친발 칸은 몽골의 카간이자 원 왕조의 황제가 되어 단 53일 동안 통치했습니다.  [Wikipedia](https://wikipedia.org/wiki/Rinchinbal_Khan)
