@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 13**에 일어난 주요 사건들
+## 📅 과거 **October 14**에 일어난 주요 사건들
 
 ---
-**54년**
-- 로마 황제 클라우디우스는 신비한 상황에서 중독으로 사망합니다.그의 뒤를 이어 메살리나와의 사이에서 태어난 브리타니쿠스(Britannicus)가 아닌 입양아들 네로(Nero)가 계승하게 됩니다.  [Wikipedia](https://wikipedia.org/wiki/Claudius)
+**1066년**
+- 노르만의 영국 정복은 헤이스팅스 전투에서 시작됩니다.  [Wikipedia](https://wikipedia.org/wiki/Norman_Conquest)
 
-**409년**
-- Vandals와 Alans는 피레네 산맥을 건너 Hispania에 나타납니다.  [Wikipedia](https://wikipedia.org/wiki/Vandals)
+**1322년**
+- 스코틀랜드의 로버트 1세는 올드 바이랜드 전투에서 잉글랜드의 에드워드 2세를 물리치고 에드워드는 스코틀랜드의 독립을 받아들이게 됩니다.  [Wikipedia](https://wikipedia.org/wiki/Robert_the_Bruce)
 
-**1269년**
-- 현재 웨스트민스터 사원에 있는 교회 건물은 봉헌되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Westminster_Abbey)
+**1586년**
+- 스코틀랜드의 메리 여왕은 영국의 엘리자베스 1세 여왕에 대한 음모 혐의로 재판을 받습니다.  [Wikipedia](https://wikipedia.org/wiki/Mary,_Queen_of_Scots)
 
-**1307년**
-- 프랑스의 기사단 기사단 수백 명이 새벽에 공정한 필립 왕에 의해 체포되고 나중에 고문을 받고 이단으로 자백합니다.  [Wikipedia](https://wikipedia.org/wiki/Knights_Templar)
+**1656년**
+- 매사추세츠 만 식민지 일반 법원은 우호 종교 협회에 대한 최초의 징벌 법안을 제정합니다.  [Wikipedia](https://wikipedia.org/wiki/Massachusetts_General_Court)
 
-**1332년**
-- 린친발 칸은 몽골의 카간이자 원 왕조의 황제가 되어 단 53일 동안 통치했습니다.  [Wikipedia](https://wikipedia.org/wiki/Rinchinbal_Khan)
+**1758년**
+- 7년 전쟁: 프리드리히 대왕은 호흐키르히 전투에서 보기 드문 패배를 당합니다.  [Wikipedia](https://wikipedia.org/wiki/Seven_Years%27_War)
