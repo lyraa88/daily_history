@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 14**에 일어난 주요 사건들
+## 📅 과거 **October 15**에 일어난 주요 사건들
 
 ---
 **1066년**
-- 노르만의 영국 정복은 헤이스팅스 전투에서 시작됩니다.  [Wikipedia](https://wikipedia.org/wiki/Norman_Conquest)
+- 헤이스팅스 전투에서 해롤드 2세가 사망한 후, 애설링 에드가가 위탄에 의해 영국의 왕으로 선포되었습니다.그는 결코 왕관을 쓰지 못했고 두 달 후 정복자 윌리엄에게 권력을 양보했습니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Hastings)
 
-**1322년**
-- 스코틀랜드의 로버트 1세는 올드 바이랜드 전투에서 잉글랜드의 에드워드 2세를 물리치고 에드워드는 스코틀랜드의 독립을 받아들이게 됩니다.  [Wikipedia](https://wikipedia.org/wiki/Robert_the_Bruce)
+**1211년**
+- 린다쿠스 전투: 라틴 황제 플랑드르의 헨리가 니케아 황제 테오도르 1세 라스카리스를 물리쳤습니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_the_Rhyndacus_(1211))
 
-**1586년**
-- 스코틀랜드의 메리 여왕은 영국의 엘리자베스 1세 여왕에 대한 음모 혐의로 재판을 받습니다.  [Wikipedia](https://wikipedia.org/wiki/Mary,_Queen_of_Scots)
+**1529년**
+- 비엔나 공성전은 오스트리아가 침략하는 오스만 군대를 패주시키고 유럽 확장을 끝낼 때 끝납니다.  [Wikipedia](https://wikipedia.org/wiki/Siege_of_Vienna_(1529))
 
-**1656년**
-- 매사추세츠 만 식민지 일반 법원은 우호 종교 협회에 대한 최초의 징벌 법안을 제정합니다.  [Wikipedia](https://wikipedia.org/wiki/Massachusetts_General_Court)
+**1582년**
+- 그레고리력의 채택이 시작되어 결국 거의 보편적인 채택으로 이어집니다.  [Wikipedia](https://wikipedia.org/wiki/Adoption_of_the_Gregorian_calendar)
 
-**1758년**
-- 7년 전쟁: 프리드리히 대왕은 호흐키르히 전투에서 보기 드문 패배를 당합니다.  [Wikipedia](https://wikipedia.org/wiki/Seven_Years%27_War)
+**1651년**
+- 청군이 저우산섬(周山島)을 함락시킨다.섬의 주민이자 남명의 섭정인 여왕 주익하이(朱儀海)가 진먼으로 도망친다.  [Wikipedia](https://wikipedia.org/wiki/Qing_Dynasty)
