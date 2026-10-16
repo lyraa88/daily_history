@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 15**에 일어난 주요 사건들
+## 📅 과거 **October 16**에 일어난 주요 사건들
 
 ---
-**1066년**
-- 헤이스팅스 전투에서 해롤드 2세가 사망한 후, 애설링 에드가가 위탄에 의해 영국의 왕으로 선포되었습니다.그는 결코 왕관을 쓰지 못했고 두 달 후 정복자 윌리엄에게 권력을 양보했습니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Hastings)
+**456년**
+- Ricimer는 Piacenza에서 Avitus를 물리치고 서로마 제국의 주인이 됩니다.  [Wikipedia](https://wikipedia.org/wiki/Ricimer)
 
-**1211년**
-- 린다쿠스 전투: 라틴 황제 플랑드르의 헨리가 니케아 황제 테오도르 1세 라스카리스를 물리쳤습니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_the_Rhyndacus_(1211))
+**690년**
+- 무측천(吳澤峰) 황후가 당나라 왕위에 올라 자신을 중국 제국의 통치자로 선포합니다.  [Wikipedia](https://wikipedia.org/wiki/Wu_Zetian)
 
-**1529년**
-- 비엔나 공성전은 오스트리아가 침략하는 오스만 군대를 패주시키고 유럽 확장을 끝낼 때 끝납니다.  [Wikipedia](https://wikipedia.org/wiki/Siege_of_Vienna_(1529))
+**912년**
+- 아브드 아르 라흐만 3세(Abd ar-Rahman III)가 코르도바의 8대 에미르(Emir)가 되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Abd_ar-Rahman_III)
 
-**1582년**
-- 그레고리력의 채택이 시작되어 결국 거의 보편적인 채택으로 이어집니다.  [Wikipedia](https://wikipedia.org/wiki/Adoption_of_the_Gregorian_calendar)
+**955년**
+- King Otto I defeats a Slavic revolt in what is now Mecklenburg-Vorpommern.  [Wikipedia](https://wikipedia.org/wiki/Battle_on_the_Raxa)
 
-**1651년**
-- 청군이 저우산섬(周山島)을 함락시킨다.섬의 주민이자 남명의 섭정인 여왕 주익하이(朱儀海)가 진먼으로 도망친다.  [Wikipedia](https://wikipedia.org/wiki/Qing_Dynasty)
+**1311년**
+- 비엔나 공의회가 처음으로 소집되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Council_of_Vienne)
