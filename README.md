@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 16**에 일어난 주요 사건들
+## 📅 과거 **October 17**에 일어난 주요 사건들
 
 ---
-**456년**
-- Ricimer는 Piacenza에서 Avitus를 물리치고 서로마 제국의 주인이 됩니다.  [Wikipedia](https://wikipedia.org/wiki/Ricimer)
-
 **690년**
-- 무측천(吳澤峰) 황후가 당나라 왕위에 올라 자신을 중국 제국의 통치자로 선포합니다.  [Wikipedia](https://wikipedia.org/wiki/Wu_Zetian)
+- 무측천황후가 중국 주나라를 세웠습니다.  [Wikipedia](https://wikipedia.org/wiki/Wu_Zetian)
 
-**912년**
-- 아브드 아르 라흐만 3세(Abd ar-Rahman III)가 코르도바의 8대 에미르(Emir)가 되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Abd_ar-Rahman_III)
+**1091년**
+- 1091년 런던 토네이도: T8/F4의 강도로 생각되는 토네이도가 런던 중심부를 강타합니다.  [Wikipedia](https://wikipedia.org/wiki/London_tornado_of_1091)
 
-**955년**
-- King Otto I defeats a Slavic revolt in what is now Mecklenburg-Vorpommern.  [Wikipedia](https://wikipedia.org/wiki/Battle_on_the_Raxa)
+**1346년**
+- 영국군은 네빌 십자가에서 스코틀랜드의 데이비드 2세 왕을 붙잡아 11년 동안 투옥했습니다.  [Wikipedia](https://wikipedia.org/wiki/David_II_of_Scotland)
 
-**1311년**
-- 비엔나 공의회가 처음으로 소집되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Council_of_Vienne)
+**1448년**
+- 제2차 코소보 전투에서 오스만 군대가 헝가리 군대를 격파합니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Kosovo_(1448))
+
+**1456년**
+- 그라이프스발트 대학교(University of Greifswald)는 북유럽에서 두 번째로 오래된 대학으로 설립되었습니다.  [Wikipedia](https://wikipedia.org/wiki/University_of_Greifswald)
