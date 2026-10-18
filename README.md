@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 17**에 일어난 주요 사건들
+## 📅 과거 **October 18**에 일어난 주요 사건들
 
 ---
-**690년**
-- 무측천황후가 중국 주나라를 세웠습니다.  [Wikipedia](https://wikipedia.org/wiki/Wu_Zetian)
+**33년**
+- 두 아들 네로와 드루수스의 죽음으로 상심하고 티베리우스에 의해 판다테리아 섬으로 추방된 장로 아그리피나는 자해로 굶어 죽는다.  [Wikipedia](https://wikipedia.org/wiki/Nero_Julius_Caesar)
 
-**1091년**
-- 1091년 런던 토네이도: T8/F4의 강도로 생각되는 토네이도가 런던 중심부를 강타합니다.  [Wikipedia](https://wikipedia.org/wiki/London_tornado_of_1091)
+**320년**
+- 그리스 철학자 알렉산드리아의 파푸스(Pappus of Alexandria)는 일식을 관찰하고 『위대한 천문학자』(알마게스트)에 대한 논평을 씁니다.  [Wikipedia](https://wikipedia.org/wiki/Pappus_of_Alexandria)
 
-**1346년**
-- 영국군은 네빌 십자가에서 스코틀랜드의 데이비드 2세 왕을 붙잡아 11년 동안 투옥했습니다.  [Wikipedia](https://wikipedia.org/wiki/David_II_of_Scotland)
+**614년**
+- 클로타르 2세(Chlothar II) 왕은 프랑크 왕국의 모든 시민 고용에서 유대인을 배제하면서 프랑크 귀족의 권리를 옹호하는 일종의 프랑크 대헌장인 파리 칙령(Edictum Chlotacharii)을 공포했습니다.  [Wikipedia](https://wikipedia.org/wiki/Chlothar_II)
 
-**1448년**
-- 제2차 코소보 전투에서 오스만 군대가 헝가리 군대를 격파합니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Kosovo_(1448))
+**629년**
+- 다고베르트 1세(Dagobert I)가 프랑크족의 왕으로 즉위했습니다.  [Wikipedia](https://wikipedia.org/wiki/Dagobert_I)
 
-**1456년**
-- 그라이프스발트 대학교(University of Greifswald)는 북유럽에서 두 번째로 오래된 대학으로 설립되었습니다.  [Wikipedia](https://wikipedia.org/wiki/University_of_Greifswald)
+**1009년**
+- 예루살렘에 있는 기독교 교회인 성묘 교회는 교회의 기초를 기반까지 무너뜨리는 파티마 왕조의 칼리프 알 하킴 비암 알라에 의해 완전히 파괴되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Church_of_the_Holy_Sepulchre)
