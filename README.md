@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 19**에 일어난 주요 사건들
+## 📅 과거 **October 20**에 일어난 주요 사건들
 
 ---
-**202 BC년**
-- 제2차 포에니 전쟁: 자마 전투에서 스키피오 아프리카누스(Scipio Africanus) 휘하의 로마 군단이 카르타고를 방어하는 군대의 지도자인 한니발 바르카(Hannibal Barca)를 격파했습니다.  [Wikipedia](https://wikipedia.org/wiki/Second_Punic_War)
+**1568년**
+- 스페인의 알바 공작은 침묵의 윌리엄이 이끄는 네덜란드 반군을 물리쳤습니다.  [Wikipedia](https://wikipedia.org/wiki/Fernando_%C3%81lvarez_de_Toledo,_3rd_Duke_of_Alba)
 
-**439년**
-- Gaiseric 왕이 이끄는 Vandals가 북아프리카의 카르타고를 점령합니다.  [Wikipedia](https://wikipedia.org/wiki/Gaiseric)
+**1572년**
+- 80년 전쟁: 3천 명의 스페인 군인이 고에스를 구호하기 위해 하룻밤에 15마일의 물을 건너갔습니다.  [Wikipedia](https://wikipedia.org/wiki/Eighty_Years%27_War)
 
-**1386년**
-- Universität Heidelberg가 첫 번째 강의를 개최하여 독일에서 가장 오래된 대학이 되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Heidelberg_University)
+**1740년**
+- 프랑스, 프로이센, 바이에른, 작센은 실용주의적 제재를 거부하고 오스트리아 계승 전쟁이 시작됩니다.  [Wikipedia](https://wikipedia.org/wiki/Pragmatic_Sanction_of_1713)
 
-**1453년**
-- 백년 전쟁: 카스티용 전투 3개월 후, 영국은 프랑스 남부에서 마지막 소유물을 잃었습니다.  [Wikipedia](https://wikipedia.org/wiki/Hundred_Years%27_War)
+**1774년**
+- 미국 혁명: 영국 제도와 영국 서인도 제도에 대한 비소비 및 비수입 협정인 대륙 협회가 제1차 대륙 회의에서 채택되었습니다.  [Wikipedia](https://wikipedia.org/wiki/American_Revolution)
 
-**1466년**
-- 폴란드와 튜턴 기사단 사이의 13년 전쟁은 제2차 가시 조약으로 끝났습니다.  [Wikipedia](https://wikipedia.org/wiki/Thirteen_Years%27_War_(1454%E2%80%9366))
+**1781년**
+- 제한된 예배의 자유를 제공하는 관용 특허가 오스트리아에서 승인되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Patent_of_Toleration)
