@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 20**에 일어난 주요 사건들
+## 📅 과거 **October 21**에 일어난 주요 사건들
 
 ---
-**1568년**
-- 스페인의 알바 공작은 침묵의 윌리엄이 이끄는 네덜란드 반군을 물리쳤습니다.  [Wikipedia](https://wikipedia.org/wiki/Fernando_%C3%81lvarez_de_Toledo,_3rd_Duke_of_Alba)
+**310년**
+- 막센티우스 황제에 의해 시칠리아로 유배된 지 65일 만에 교황 유세비우스가 사망합니다.  [Wikipedia](https://wikipedia.org/wiki/Maxentius)
 
-**1572년**
-- 80년 전쟁: 3천 명의 스페인 군인이 고에스를 구호하기 위해 하룻밤에 15마일의 물을 건너갔습니다.  [Wikipedia](https://wikipedia.org/wiki/Eighty_Years%27_War)
+**685년**
+- 교황 요한 5세가 선종한 후 교황 코논이 선출됨.  [Wikipedia](https://wikipedia.org/wiki/Pope_Conon)
 
-**1740년**
-- 프랑스, 프로이센, 바이에른, 작센은 실용주의적 제재를 거부하고 오스트리아 계승 전쟁이 시작됩니다.  [Wikipedia](https://wikipedia.org/wiki/Pragmatic_Sanction_of_1713)
+**1094년**
+- El Cid와 그의 군대는 Cuarte 전투에서 Almoravids의 대규모 군대를 격파합니다.  [Wikipedia](https://wikipedia.org/wiki/El_Cid)
 
-**1774년**
-- 미국 혁명: 영국 제도와 영국 서인도 제도에 대한 비소비 및 비수입 협정인 대륙 협회가 제1차 대륙 회의에서 채택되었습니다.  [Wikipedia](https://wikipedia.org/wiki/American_Revolution)
+**1096년**
+- 셀주크 터키군이 치베토 전투에서 인민십자군을 매복 공격하는 데 성공했습니다.  [Wikipedia](https://wikipedia.org/wiki/Rum_Seljuq)
 
-**1781년**
-- 제한된 예배의 자유를 제공하는 관용 특허가 오스트리아에서 승인되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Patent_of_Toleration)
+**1097년**
+- 제1차 십자군: 부용의 고드프루아, 타란토의 보헤문트, 툴루즈 백작 레몽 4세가 이끄는 십자군이 안티오크 포위 공격을 시작합니다.  [Wikipedia](https://wikipedia.org/wiki/First_Crusade)
