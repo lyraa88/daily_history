@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 21**에 일어난 주요 사건들
+## 📅 과거 **October 22**에 일어난 주요 사건들
 
 ---
-**310년**
-- 막센티우스 황제에 의해 시칠리아로 유배된 지 65일 만에 교황 유세비우스가 사망합니다.  [Wikipedia](https://wikipedia.org/wiki/Maxentius)
+**2137 BC년**
+- A solar eclipse occurs over China, one of the earliest recorded in human history, reportedly resulting in the executions of two astronomers who failed to predict it.  [Wikipedia](https://wikipedia.org/wiki/Solar_eclipse_of_October_22,_2137_BC)
 
-**685년**
-- 교황 요한 5세가 선종한 후 교황 코논이 선출됨.  [Wikipedia](https://wikipedia.org/wiki/Pope_Conon)
+**451년**
+- 예수의 신성과 인성에 관한 칼케돈 신경은 에큐메니컬 공의회인 칼케돈 공의회에서 채택되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Chalcedonian_Creed)
 
-**1094년**
-- El Cid와 그의 군대는 Cuarte 전투에서 Almoravids의 대규모 군대를 격파합니다.  [Wikipedia](https://wikipedia.org/wiki/El_Cid)
+**794년**
+- 일본 간무 천황은 제국의 수도를 헤이안쿄(현 교토)로 옮깁니다.  [Wikipedia](https://wikipedia.org/wiki/Emperor_Kanmu)
 
-**1096년**
-- 셀주크 터키군이 치베토 전투에서 인민십자군을 매복 공격하는 데 성공했습니다.  [Wikipedia](https://wikipedia.org/wiki/Rum_Seljuq)
+**906년**
+- 아바스 왕조의 장군 아마드 이븐 카이갈라(Ahmad ibn Kayghalagh)는 비잔틴 제국을 공격하여 4,000~5,000명을 포로로 잡았습니다.  [Wikipedia](https://wikipedia.org/wiki/Ahmad_ibn_Kayghalagh)
 
-**1097년**
-- 제1차 십자군: 부용의 고드프루아, 타란토의 보헤문트, 툴루즈 백작 레몽 4세가 이끄는 십자군이 안티오크 포위 공격을 시작합니다.  [Wikipedia](https://wikipedia.org/wiki/First_Crusade)
+**1383년**
+- The male line of the Portuguese House of Burgundy becomes extinct with the death of King Fernando, leaving only his daughter Beatrice. Rival claimants begin a period of civil war and disorder.  [Wikipedia](https://wikipedia.org/wiki/Portuguese_House_of_Burgundy)
