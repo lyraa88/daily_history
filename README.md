@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 22**에 일어난 주요 사건들
+## 📅 과거 **October 23**에 일어난 주요 사건들
 
 ---
-**2137 BC년**
-- A solar eclipse occurs over China, one of the earliest recorded in human history, reportedly resulting in the executions of two astronomers who failed to predict it.  [Wikipedia](https://wikipedia.org/wiki/Solar_eclipse_of_October_22,_2137_BC)
+**4004 BC년**
+- 제임스 어셔(James Ussher)가 성경에 따라 세상을 창조했다고 주장하는 날짜입니다.  [Wikipedia](https://wikipedia.org/wiki/James_Ussher)
 
-**451년**
-- 예수의 신성과 인성에 관한 칼케돈 신경은 에큐메니컬 공의회인 칼케돈 공의회에서 채택되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Chalcedonian_Creed)
+**42 BC년**
+- 해방자들의 내전: 마크 안토니우스와 옥타비아누스는 빌립보 전투의 두 번째 부분에서 브루투스 휘하의 군대를 결정적으로 격파하고, 브루투스는 자살하고 내전은 종식됩니다.  [Wikipedia](https://wikipedia.org/wiki/Liberators%27_civil_war)
 
-**794년**
-- 일본 간무 천황은 제국의 수도를 헤이안쿄(현 교토)로 옮깁니다.  [Wikipedia](https://wikipedia.org/wiki/Emperor_Kanmu)
+**425년**
+- 발렌티니아누스 3세는 6세에 로마 황제로 즉위합니다.  [Wikipedia](https://wikipedia.org/wiki/Valentinian_III)
 
-**906년**
-- 아바스 왕조의 장군 아마드 이븐 카이갈라(Ahmad ibn Kayghalagh)는 비잔틴 제국을 공격하여 4,000~5,000명을 포로로 잡았습니다.  [Wikipedia](https://wikipedia.org/wiki/Ahmad_ibn_Kayghalagh)
+**502년**
+- 고트족 왕 테오데릭이 소집한 시노두스 팔마리스(Synodus Palmaris)는 교황 심마쿠스의 모든 혐의를 면죄하여 안티포프 라우렌티우스의 분열을 종식시켰습니다.  [Wikipedia](https://wikipedia.org/wiki/Theodoric_the_Great)
 
-**1383년**
-- The male line of the Portuguese House of Burgundy becomes extinct with the death of King Fernando, leaving only his daughter Beatrice. Rival claimants begin a period of civil war and disorder.  [Wikipedia](https://wikipedia.org/wiki/Portuguese_House_of_Burgundy)
+**1086년**
+- 스페인 재정복: Sagrajas 전투에서 Almoravids는 Castilians를 물리쳤지만 그들의 승리를 활용할 수는 없습니다.  [Wikipedia](https://wikipedia.org/wiki/Reconquista)
