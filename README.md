@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 23**에 일어난 주요 사건들
+## 📅 과거 **October 24**에 일어난 주요 사건들
 
 ---
-**4004 BC년**
-- 제임스 어셔(James Ussher)가 성경에 따라 세상을 창조했다고 주장하는 날짜입니다.  [Wikipedia](https://wikipedia.org/wiki/James_Ussher)
+**69년**
+- 2차 베드리아쿰 전투에서 베스파시아누스에 충성하는 군대가 비텔리우스 황제의 군대를 물리쳤습니다.  [Wikipedia](https://wikipedia.org/wiki/Second_Battle_of_Bedriacum)
 
-**42 BC년**
-- 해방자들의 내전: 마크 안토니우스와 옥타비아누스는 빌립보 전투의 두 번째 부분에서 브루투스 휘하의 군대를 결정적으로 격파하고, 브루투스는 자살하고 내전은 종식됩니다.  [Wikipedia](https://wikipedia.org/wiki/Liberators%27_civil_war)
+**1260년**
+- 샤르트르 대성당은 프랑스 왕 루이 9세 앞에서 봉헌되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Chartres_Cathedral)
 
-**425년**
-- 발렌티니아누스 3세는 6세에 로마 황제로 즉위합니다.  [Wikipedia](https://wikipedia.org/wiki/Valentinian_III)
+**1260년**
+- 아인잘루트 전투에서 몽골군을 격파하고 이전 맘루크 술탄인 쿠투즈를 암살한 후, 바이바르스는 맘루크 술탄국의 네 번째 술탄으로서 이집트 왕좌에 올랐습니다.  [Wikipedia](https://wikipedia.org/wiki/Ilkhanate)
 
-**502년**
-- 고트족 왕 테오데릭이 소집한 시노두스 팔마리스(Synodus Palmaris)는 교황 심마쿠스의 모든 혐의를 면죄하여 안티포프 라우렌티우스의 분열을 종식시켰습니다.  [Wikipedia](https://wikipedia.org/wiki/Theodoric_the_Great)
+**1360년**
+- 브레티니 조약이 비준되어 백년전쟁의 첫 단계가 끝났습니다.  [Wikipedia](https://wikipedia.org/wiki/Treaty_of_Br%C3%A9tigny)
 
-**1086년**
-- 스페인 재정복: Sagrajas 전투에서 Almoravids는 Castilians를 물리쳤지만 그들의 승리를 활용할 수는 없습니다.  [Wikipedia](https://wikipedia.org/wiki/Reconquista)
+**1590년**
+- 두 번째 로어노크 식민지의 주지사인 존 화이트는 "잃어버린" 식민지 주민들을 찾는 데 실패한 후 영국으로 돌아옵니다.  [Wikipedia](https://wikipedia.org/wiki/John_White_(colonist_and_artist))
