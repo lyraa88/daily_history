@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 24**에 일어난 주요 사건들
+## 📅 과거 **October 25**에 일어난 주요 사건들
 
 ---
-**69년**
-- 2차 베드리아쿰 전투에서 베스파시아누스에 충성하는 군대가 비텔리우스 황제의 군대를 물리쳤습니다.  [Wikipedia](https://wikipedia.org/wiki/Second_Battle_of_Bedriacum)
+**285 or 286년**
+- 디오클레티아누스 통치 기간에 성 크리스핀과 크리스피니아누스가 처형되었으며, 지금은 가죽 세공인, 카레공, 제화공의 수호성인이 되었습니다.  [Wikipedia](https://wikipedia.org/wiki/285)
 
-**1260년**
-- 샤르트르 대성당은 프랑스 왕 루이 9세 앞에서 봉헌되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Chartres_Cathedral)
+**473년**
+- 황제 레오 1세는 그의 손자인 레오 2세를 동로마 제국의 카이사르로 칭송합니다.  [Wikipedia](https://wikipedia.org/wiki/Leo_I_(emperor))
 
-**1260년**
-- 아인잘루트 전투에서 몽골군을 격파하고 이전 맘루크 술탄인 쿠투즈를 암살한 후, 바이바르스는 맘루크 술탄국의 네 번째 술탄으로서 이집트 왕좌에 올랐습니다.  [Wikipedia](https://wikipedia.org/wiki/Ilkhanate)
+**1147년**
+- 셀주크 투르크는 도릴라에움 전투에서 콘라트 3세 휘하의 독일 십자군을 격파했습니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Dorylaeum_(1147))
 
-**1360년**
-- 브레티니 조약이 비준되어 백년전쟁의 첫 단계가 끝났습니다.  [Wikipedia](https://wikipedia.org/wiki/Treaty_of_Br%C3%A9tigny)
+**1147년**
+- Reconquista: 4개월 간의 포위 공격 끝에 십자군 기사들이 리스본을 정복했습니다.  [Wikipedia](https://wikipedia.org/wiki/Siege_of_Lisbon)
 
-**1590년**
-- 두 번째 로어노크 식민지의 주지사인 존 화이트는 "잃어버린" 식민지 주민들을 찾는 데 실패한 후 영국으로 돌아옵니다.  [Wikipedia](https://wikipedia.org/wiki/John_White_(colonist_and_artist))
+**1415년**
+- 백년 전쟁: 영국의 헨리 5세가 경장갑 보병과 궁수를 이끌고 아쟁쿠르 전투에서 중장갑 프랑스 기병을 격파합니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Agincourt)
