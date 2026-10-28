@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 27**에 일어난 주요 사건들
+## 📅 과거 **October 28**에 일어난 주요 사건들
 
 ---
+**97년**
+- 로마 황제 네르바는 근위대에 의해 마르쿠스 울피우스 트라야누스(Marcus Ulpius Trajanus) 장군을 그의 후계자이자 후계자로 채택하도록 강요받습니다.  [Wikipedia](https://wikipedia.org/wiki/Nerva)
+
+**306년**
+- 막센티우스는 로마 황제로 선포됩니다.  [Wikipedia](https://wikipedia.org/wiki/Maxentius)
+
 **312년**
-- 콘스탄티누스 대제는 그 유명한 십자가의 환상을 받았다고 합니다.  [Wikipedia](https://wikipedia.org/wiki/Constantine_the_Great)
+- 콘스탄티누스 1세는 막센티우스를 물리치고 서방의 유일한 로마 황제가 되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Constantine_the_Great)
 
-**1275년**
-- 암스테르담 시의 전통적인 창립.  [Wikipedia](https://wikipedia.org/wiki/Amsterdam)
+**969년**
+- 비잔틴 제국은 아랍 통치로부터 안티오크를 회복합니다.  [Wikipedia](https://wikipedia.org/wiki/Byzantine_Empire)
 
-**1524년**
-- 프랑스군이 파비아를 포위했습니다.  [Wikipedia](https://wikipedia.org/wiki/Italian_campaign_of_1524%E2%80%9325)
-
-**1553년**
-- 이단자로 선고받은 미카엘 세르베투스는 제네바 바로 외곽에서 화형을 당합니다.  [Wikipedia](https://wikipedia.org/wiki/Michael_Servetus)
-
-**1644년**
-- Second Battle of Newbury in the English Civil War.  [Wikipedia](https://wikipedia.org/wiki/Second_Battle_of_Newbury)
+**1344년**
+- Smyrna의 낮은 마을은 Smyrniote 십자군 기간 동안 Aydınid 불법 복제에 대한 대응으로 라틴 기독교인에 의해 점령되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Ayd%C4%B1nids)
