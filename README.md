@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 28**에 일어난 주요 사건들
+## 📅 과거 **October 29**에 일어난 주요 사건들
 
 ---
-**97년**
-- 로마 황제 네르바는 근위대에 의해 마르쿠스 울피우스 트라야누스(Marcus Ulpius Trajanus) 장군을 그의 후계자이자 후계자로 채택하도록 강요받습니다.  [Wikipedia](https://wikipedia.org/wiki/Nerva)
-
-**306년**
-- 막센티우스는 로마 황제로 선포됩니다.  [Wikipedia](https://wikipedia.org/wiki/Maxentius)
-
 **312년**
-- 콘스탄티누스 1세는 막센티우스를 물리치고 서방의 유일한 로마 황제가 되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Constantine_the_Great)
+- 콘스탄티누스 대제는 밀비안 다리 전투에서 승리한 후 로마에 입성하여 도시에서 대모험을 벌이고 대중의 환호를 받았습니다.막센티우스의 시신은 테베레강에서 건져져 참수된다.  [Wikipedia](https://wikipedia.org/wiki/Constantine_the_Great)
 
-**969년**
-- 비잔틴 제국은 아랍 통치로부터 안티오크를 회복합니다.  [Wikipedia](https://wikipedia.org/wiki/Byzantine_Empire)
+**437년**
+- 서로마 황제 발렌티니아누스 3세는 콘스탄티노플에서 동로마 황제 테오도시우스 2세의 사촌 딸인 리키니아 에우독시아와 결혼하여 테오도시우스 가문의 두 가문을 통합했습니다.  [Wikipedia](https://wikipedia.org/wiki/Valentinian_III)
 
-**1344년**
-- Smyrna의 낮은 마을은 Smyrniote 십자군 기간 동안 Aydınid 불법 복제에 대한 대응으로 라틴 기독교인에 의해 점령되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Ayd%C4%B1nids)
+**1390년**
+- 파리에서 열린 첫 번째 주술 재판에서 세 사람이 사망했습니다.  [Wikipedia](https://wikipedia.org/wiki/Witchcraft)
+
+**1467년**
+- Brustem 전투 : Charles the Bold가 Liège의 Prince-Bishopric을 격파했습니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Brustem)
+
+**1611년**
+- 폴란드 국왕 지기스문트 3세 바사(Sigismund III Vasa)에 대한 러시아의 경의.  [Wikipedia](https://wikipedia.org/wiki/Shuysky_Tribute)
