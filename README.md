@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 29**에 일어난 주요 사건들
+## 📅 과거 **October 30**에 일어난 주요 사건들
 
 ---
-**312년**
-- 콘스탄티누스 대제는 밀비안 다리 전투에서 승리한 후 로마에 입성하여 도시에서 대모험을 벌이고 대중의 환호를 받았습니다.막센티우스의 시신은 테베레강에서 건져져 참수된다.  [Wikipedia](https://wikipedia.org/wiki/Constantine_the_Great)
+**130년**
+- 하드리아누스 황제는 동료 안티누스를 기리기 위해 나일 강변에 안티노외폴리스라는 도시를 건설하여 로마 이집트에 새로운 헬레니즘 기반을 세웠습니다.  [Wikipedia](https://wikipedia.org/wiki/AD_130)
 
-**437년**
-- 서로마 황제 발렌티니아누스 3세는 콘스탄티노플에서 동로마 황제 테오도시우스 2세의 사촌 딸인 리키니아 에우독시아와 결혼하여 테오도시우스 가문의 두 가문을 통합했습니다.  [Wikipedia](https://wikipedia.org/wiki/Valentinian_III)
+**637년**
+- 아랍-비잔틴 전쟁: 철교 전투 이후 안티오크가 라시둔 칼리프에 항복합니다.  [Wikipedia](https://wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars)
 
-**1390년**
-- 파리에서 열린 첫 번째 주술 재판에서 세 사람이 사망했습니다.  [Wikipedia](https://wikipedia.org/wiki/Witchcraft)
+**758년**
+- 광저우는 아랍과 페르시아 해적들에게 약탈당했습니다.  [Wikipedia](https://wikipedia.org/wiki/Guangzhou)
 
-**1467년**
-- Brustem 전투 : Charles the Bold가 Liège의 Prince-Bishopric을 격파했습니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Brustem)
+**1137년**
+- Apulia의 Ranulf는 Rignano 전투에서 Roger II of Sicily를 물리치고 2년 후 사망할 때까지 공작으로서의 지위를 확보했습니다.  [Wikipedia](https://wikipedia.org/wiki/Ranulf_of_Apulia)
 
-**1611년**
-- 폴란드 국왕 지기스문트 3세 바사(Sigismund III Vasa)에 대한 러시아의 경의.  [Wikipedia](https://wikipedia.org/wiki/Shuysky_Tribute)
+**1270년**
+- 제8차 십자군은 앙주의 샤를 1세(그의 사망한 형제인 프랑스 왕 루이 9세를 대신함)와 튀니지 튀니스의 하프시드 왕조 사이의 합의로 끝났습니다.  [Wikipedia](https://wikipedia.org/wiki/Eighth_Crusade)
