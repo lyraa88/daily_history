@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **October 30**에 일어난 주요 사건들
+## 📅 과거 **October 31**에 일어난 주요 사건들
 
 ---
-**130년**
-- 하드리아누스 황제는 동료 안티누스를 기리기 위해 나일 강변에 안티노외폴리스라는 도시를 건설하여 로마 이집트에 새로운 헬레니즘 기반을 세웠습니다.  [Wikipedia](https://wikipedia.org/wiki/AD_130)
+**475년**
+- 로물루스 아우구스툴루스(Romulus Augustulus)가 서로마 황제로 선포되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Romulus_Augustulus)
 
-**637년**
-- 아랍-비잔틴 전쟁: 철교 전투 이후 안티오크가 라시둔 칼리프에 항복합니다.  [Wikipedia](https://wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars)
+**683년**
+- 메카 공성전 중에 카바에 불이 붙어 소실됩니다.  [Wikipedia](https://wikipedia.org/wiki/Siege_of_Mecca_(683))
 
-**758년**
-- 광저우는 아랍과 페르시아 해적들에게 약탈당했습니다.  [Wikipedia](https://wikipedia.org/wiki/Guangzhou)
+**802년**
+- 아이린 황후는 폐위되어 레스보스로 추방됩니다.공모자들은 재무장관 니케포로스를 비잔틴 왕좌에 앉혔습니다.  [Wikipedia](https://wikipedia.org/wiki/Irene_of_Athens)
 
-**1137년**
-- Apulia의 Ranulf는 Rignano 전투에서 Roger II of Sicily를 물리치고 2년 후 사망할 때까지 공작으로서의 지위를 확보했습니다.  [Wikipedia](https://wikipedia.org/wiki/Ranulf_of_Apulia)
+**932년**
+- Abbasid caliph al-Muqtadir은 Mu'nis al-Muzaffar 장군의 세력과 싸우다가 사망했습니다.Al-Muqtadir의 형제 al-Qahir가 그의 계승자로 선택되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Abbasid_caliph)
 
-**1270년**
-- 제8차 십자군은 앙주의 샤를 1세(그의 사망한 형제인 프랑스 왕 루이 9세를 대신함)와 튀니지 튀니스의 하프시드 왕조 사이의 합의로 끝났습니다.  [Wikipedia](https://wikipedia.org/wiki/Eighth_Crusade)
+**1517년**
+- 개신교 개혁: 마르틴 루터가 비텐베르크 성 교회 문에 95개 조항을 게시했습니다.  [Wikipedia](https://wikipedia.org/wiki/Protestant_Reformation)
