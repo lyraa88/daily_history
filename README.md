@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 1**에 일어난 주요 사건들
+## 📅 과거 **November 2**에 일어난 주요 사건들
 
 ---
-**365년**
-- 로마 황제 발렌티니아누스 1세는 알레만니족이 라인강을 건너 갈리아를 침공했다는 사실을 알게 되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Valentinian_I)
+**619년**
+- 서부 투르크 카가나테의 카간은 당 황제 가오조의 승인을 받은 후 중국 궁전에서 동부 투르크 라이벌들에 의해 암살됩니다.  [Wikipedia](https://wikipedia.org/wiki/Khagan)
 
-**996년**
-- 황제 오토 3세(Otto III)는 프라이징의 주교인 고트샬크(Gottschalk)에게 증서를 발행하는데, 이는 Ostarrîchi(고대 고지 독일어로 오스트리아)라는 이름을 사용하는 가장 오래된 것으로 알려진 문서입니다.  [Wikipedia](https://wikipedia.org/wiki/Otto_III,_Holy_Roman_Emperor)
+**1410년**
+- Bicêtre의 평화는 Armagnac-Burgundian 내전의 적대 행위를 중단합니다.  [Wikipedia](https://wikipedia.org/wiki/Bic%C3%AAtre)
 
-**1141년**
-- "영국의 여인"으로서의 마틸다 황후의 통치는 스티븐 오브 블루아가 "영국의 왕"이라는 칭호를 되찾으면서 끝이 납니다.  [Wikipedia](https://wikipedia.org/wiki/Empress_Matilda)
+**1675년**
+- 플리머스 식민지 주지사인 조시아 윈슬로(Josiah Winslow)는 필립 왕의 전쟁 중에 나라간세트(Narragansett)에 맞서 식민지 민병대를 이끌고 있습니다.  [Wikipedia](https://wikipedia.org/wiki/Plymouth_Colony)
 
-**1179년**
-- 필립 2세가 프랑스의 왕으로 즉위합니다.  [Wikipedia](https://wikipedia.org/wiki/Philip_II_of_France)
+**1707년**
+- 영국 해군 함정 4척이 잘못된 항해로 인해 실리 제도에 좌초되었습니다.이에 대응하여 1714년에 최초의 경도법이 제정되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Scilly_naval_disaster_of_1707)
 
-**1214년**
-- 항구 도시 시노페가 셀주크 투르크에게 항복합니다.  [Wikipedia](https://wikipedia.org/wiki/Sinop,_Turkey)
+**1795년**
+- 5인의 혁명 정부인 프랑스 총재(French Directory)가 창설되었습니다.  [Wikipedia](https://wikipedia.org/wiki/French_Directory)
