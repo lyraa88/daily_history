@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 2**에 일어난 주요 사건들
+## 📅 과거 **November 3**에 일어난 주요 사건들
 
 ---
-**619년**
-- 서부 투르크 카가나테의 카간은 당 황제 가오조의 승인을 받은 후 중국 궁전에서 동부 투르크 라이벌들에 의해 암살됩니다.  [Wikipedia](https://wikipedia.org/wiki/Khagan)
+**361년**
+- 콘스탄티우스 2세 황제는 킬리키아의 몹수에스티아에서 열병으로 사망했습니다.임종 당시 그는 세례를 받고 그의 사촌 줄리안을 정당한 후계자로 선언합니다.  [Wikipedia](https://wikipedia.org/wiki/Constantius_II)
 
-**1410년**
-- Bicêtre의 평화는 Armagnac-Burgundian 내전의 적대 행위를 중단합니다.  [Wikipedia](https://wikipedia.org/wiki/Bic%C3%AAtre)
+**1090년**
+- 루앙 폭동(Rouen Riot)은 영국 왕 윌리엄 루퍼스(William Rufus)가 그의 형 노르망디 공작 로베르의 수도인 루앙을 점령하려 했으나 실패했다.  [Wikipedia](https://wikipedia.org/wiki/Rouen_Riot)
 
-**1675년**
-- 플리머스 식민지 주지사인 조시아 윈슬로(Josiah Winslow)는 필립 왕의 전쟁 중에 나라간세트(Narragansett)에 맞서 식민지 민병대를 이끌고 있습니다.  [Wikipedia](https://wikipedia.org/wiki/Plymouth_Colony)
+**1333년**
+- The River Arno floods causing massive damage in Florence as recorded by the Florentine chronicler Giovanni Villani.  [Wikipedia](https://wikipedia.org/wiki/Arno)
 
-**1707년**
-- 영국 해군 함정 4척이 잘못된 항해로 인해 실리 제도에 좌초되었습니다.이에 대응하여 1714년에 최초의 경도법이 제정되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Scilly_naval_disaster_of_1707)
+**1468년**
+- Liège is sacked by Charles I of Burgundy's troops.  [Wikipedia](https://wikipedia.org/wiki/Li%C3%A8ge)
 
-**1795년**
-- 5인의 혁명 정부인 프랑스 총재(French Directory)가 창설되었습니다.  [Wikipedia](https://wikipedia.org/wiki/French_Directory)
+**1492년**
+- 영국의 헨리 7세와 프랑스의 샤를 8세가 맺은 에타플스의 평화.  [Wikipedia](https://wikipedia.org/wiki/Peace_of_Etaples)
