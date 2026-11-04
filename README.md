@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 3**에 일어난 주요 사건들
+## 📅 과거 **November 4**에 일어난 주요 사건들
 
 ---
-**361년**
-- 콘스탄티우스 2세 황제는 킬리키아의 몹수에스티아에서 열병으로 사망했습니다.임종 당시 그는 세례를 받고 그의 사촌 줄리안을 정당한 후계자로 선언합니다.  [Wikipedia](https://wikipedia.org/wiki/Constantius_II)
+**512년**
+- 비잔틴 황제 아나스타시우스가 칼케도니아 총대주교들을 해임하고 예배에 대한 단성론적 변화를 시도한 후, 아레오빈두스를 황제로 선포하려는 폭도들과 함께 콘스탄티노플에서 폭동이 일어났습니다.  [Wikipedia](https://wikipedia.org/wiki/Byzantine_emperor)
 
-**1090년**
-- 루앙 폭동(Rouen Riot)은 영국 왕 윌리엄 루퍼스(William Rufus)가 그의 형 노르망디 공작 로베르의 수도인 루앙을 점령하려 했으나 실패했다.  [Wikipedia](https://wikipedia.org/wiki/Rouen_Riot)
+**1354년**
+- 해협 전쟁: 파가니노 도리아 휘하의 제노바 함대가 사피엔차 전투에서 니콜로 피사니 휘하의 베네치아 함대 전체를 격파하고 점령합니다.  [Wikipedia](https://wikipedia.org/wiki/War_of_the_Straits)
 
-**1333년**
-- The River Arno floods causing massive damage in Florence as recorded by the Florentine chronicler Giovanni Villani.  [Wikipedia](https://wikipedia.org/wiki/Arno)
+**1429년**
+- 아르마냐크-부르고뉴 내전: 잔 다르크(Joan of Arc)가 생 피에르 르 무티에(Saint-Pierre-le-Moûtier)를 해방시킵니다.  [Wikipedia](https://wikipedia.org/wiki/Armagnac%E2%80%93Burgundian_Civil_War)
 
-**1468년**
-- Liège is sacked by Charles I of Burgundy's troops.  [Wikipedia](https://wikipedia.org/wiki/Li%C3%A8ge)
+**1493년**
+- 크리스토퍼 콜럼버스가 리워드 제도에 도착합니다.  [Wikipedia](https://wikipedia.org/wiki/Christopher_Columbus)
 
-**1492년**
-- 영국의 헨리 7세와 프랑스의 샤를 8세가 맺은 에타플스의 평화.  [Wikipedia](https://wikipedia.org/wiki/Peace_of_Etaples)
+**1501년**
+- 아라곤의 캐서린(훗날 헨리 8세의 첫 부인)은 헨리 8세의 형인 아서 튜더(Arthur Tudor)를 만나 나중에 결혼하게 됩니다.  [Wikipedia](https://wikipedia.org/wiki/Catherine_of_Aragon)
