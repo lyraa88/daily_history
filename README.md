@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 5**에 일어난 주요 사건들
+## 📅 과거 **November 6**에 일어난 주요 사건들
 
 ---
-**1009년**
-- Sulayman ibn al-Hakam이 이끄는 베르베르 군대는 Qantish 전투에서 Umayyad 칼리프 코르도바의 Muhammad II를 격파했습니다.  [Wikipedia](https://wikipedia.org/wiki/Berbers)
+**447년**
+- 강력한 지진으로 57개의 탑을 포함해 콘스탄티노플 성벽의 상당 부분이 파괴되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Walls_of_Constantinople)
 
-**1138년**
-- 리 안 통(Lý Anh Tông)은 두 살의 나이로 베트남의 황제로 즉위해 37년간의 통치를 시작했습니다.  [Wikipedia](https://wikipedia.org/wiki/L%C3%BD_Anh_T%C3%B4ng)
+**963년**
+- 로마 시노드: 오토 1세 황제가 로마 성 베드로 대성당에서 공의회를 소집했습니다.교황 요한 12세는 오토에 대한 무장 반란 혐의로 폐위되었다.  [Wikipedia](https://wikipedia.org/wiki/Synod_of_Rome_(963))
 
-**1499년**
-- 1464년 Jehan Lagadeuc이 Tréguier에서 쓴 카톨릭이 출판되었습니다.이것은 최초의 브르타뉴어 사전이자 최초의 프랑스어 사전입니다.  [Wikipedia](https://wikipedia.org/wiki/Catholicon_(trilingual_dictionary))
+**1217년**
+- 삼림 헌장(Charter of the Forest)은 펨브로크 백작 윌리엄 마샬(William Marshall, 1st Earl of Pembroke)의 섭정 하에 활동하는 헨리 3세 왕에 의해 런던의 세인트 폴 대성당에서 봉인되었으며, 정복자 윌리엄과 그의 상속자들에 의해 침식되었던 왕립 삼림에 대한 자유인의 접근권을 다시 확립했습니다.  [Wikipedia](https://wikipedia.org/wiki/Charter_of_the_Forest)
 
-**1556년**
-- 제2차 파니파트 전투: 델리의 힌두 왕인 헴 찬드라 비크라마디티야(Hem Chandra Vikramaditya)의 군대와 무슬림 황제 악바르(Akbar)의 군대 사이에 전투가 시작됩니다.  [Wikipedia](https://wikipedia.org/wiki/Second_Battle_of_Panipat)
+**1792년**
+- 프랑스 혁명 전쟁의 제마프 전투.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Jemappes)
 
-**1605년**
-- 화약 음모: 가이 포크스(Guy Fawkes)는 국회의사당을 폭파하고 영국의 제임스 1세를 죽이기 위해 화약을 심었던 지하실에서 체포됩니다.  [Wikipedia](https://wikipedia.org/wiki/Gunpowder_Plot)
+**1860년**
+- 에이브러햄 링컨(Abraham Lincoln)은 4자 경쟁에서 존 C. 브레킨리지(John C. Breckinridge), 존 벨(John Bell), 스티븐 A. 더글러스(Stephen A. Douglas)를 누르고 일반 투표의 40%에 불과한 득표율로 미국의 제16대 대통령으로 선출되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Abraham_Lincoln)
