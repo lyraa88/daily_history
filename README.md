@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 6**에 일어난 주요 사건들
+## 📅 과거 **November 7**에 일어난 주요 사건들
 
 ---
-**447년**
-- 강력한 지진으로 57개의 탑을 포함해 콘스탄티노플 성벽의 상당 부분이 파괴되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Walls_of_Constantinople)
+**335년**
+- 알렉산드리아의 제20대 교황 아타나시우스는 곡물 함대가 콘스탄티노플로 항해하는 것을 방해했다는 죄목으로 트리어로 추방되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Athanasius_of_Alexandria)
 
-**963년**
-- 로마 시노드: 오토 1세 황제가 로마 성 베드로 대성당에서 공의회를 소집했습니다.교황 요한 12세는 오토에 대한 무장 반란 혐의로 폐위되었다.  [Wikipedia](https://wikipedia.org/wiki/Synod_of_Rome_(963))
+**680년**
+- 제6차 에큐메니칼 공의회가 콘스탄티노플에서 시작됩니다.  [Wikipedia](https://wikipedia.org/wiki/Third_Council_of_Constantinople)
 
-**1217년**
-- 삼림 헌장(Charter of the Forest)은 펨브로크 백작 윌리엄 마샬(William Marshall, 1st Earl of Pembroke)의 섭정 하에 활동하는 헨리 3세 왕에 의해 런던의 세인트 폴 대성당에서 봉인되었으며, 정복자 윌리엄과 그의 상속자들에 의해 침식되었던 왕립 삼림에 대한 자유인의 접근권을 다시 확립했습니다.  [Wikipedia](https://wikipedia.org/wiki/Charter_of_the_Forest)
+**921년**
+- 본 조약: 프랑크 왕 단순왕 샤를과 파울러 하인리히는 라인강을 따라 국경을 인정하기 위해 평화 조약 또는 '우정 조약'(amicitia)에 서명했습니다.  [Wikipedia](https://wikipedia.org/wiki/Treaty_of_Bonn)
 
-**1792년**
-- 프랑스 혁명 전쟁의 제마프 전투.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Jemappes)
+**1426년**
+- Lam Son 봉기: Lam Son 반란군은 현재 하노이의 Dong Quan에서 진행되는 Tot Dong-Chuc Dong 전투에서 명나라 군대에 맞서 승리합니다.  [Wikipedia](https://wikipedia.org/wiki/Lam_S%C6%A1n_uprising)
 
-**1860년**
-- 에이브러햄 링컨(Abraham Lincoln)은 4자 경쟁에서 존 C. 브레킨리지(John C. Breckinridge), 존 벨(John Bell), 스티븐 A. 더글러스(Stephen A. Douglas)를 누르고 일반 투표의 40%에 불과한 득표율로 미국의 제16대 대통령으로 선출되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Abraham_Lincoln)
+**1492년**
+- 충돌 날짜가 알려진 가장 오래된 운석인 엔시스하임 운석이 프랑스 알자스주 엔시스하임 마을 외곽의 밀밭에 지구에 충돌했습니다.  [Wikipedia](https://wikipedia.org/wiki/Ensisheim_(meteorite))
