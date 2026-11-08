@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 7**에 일어난 주요 사건들
+## 📅 과거 **November 8**에 일어난 주요 사건들
 
 ---
-**335년**
-- 알렉산드리아의 제20대 교황 아타나시우스는 곡물 함대가 콘스탄티노플로 항해하는 것을 방해했다는 죄목으로 트리어로 추방되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Athanasius_of_Alexandria)
+**960년**
+- 안드라소스 전투: 레오 포카스(Leo Phokas the Younger) 휘하의 비잔틴군이 알레포의 함다니드 에미르인 사이프 알 다울라(Sayf al-Dawla)에게 압도적인 승리를 거두었습니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Andrassos)
 
-**680년**
-- 제6차 에큐메니칼 공의회가 콘스탄티노플에서 시작됩니다.  [Wikipedia](https://wikipedia.org/wiki/Third_Council_of_Constantinople)
+**1278년**
+- Trần 왕조의 두 번째 황제인 Trần Thánh Tông은 왕위를 왕세자 Trần Khâm에게 넘기고 은퇴한 황제의 자리를 차지하기로 결정합니다.  [Wikipedia](https://wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1nh_T%C3%B4ng)
 
-**921년**
-- 본 조약: 프랑크 왕 단순왕 샤를과 파울러 하인리히는 라인강을 따라 국경을 인정하기 위해 평화 조약 또는 '우정 조약'(amicitia)에 서명했습니다.  [Wikipedia](https://wikipedia.org/wiki/Treaty_of_Bonn)
+**1291년**
+- 베니스 공화국은 베니스의 유리 제조 산업 대부분을 "무라노 섬"으로 제한하는 법을 제정합니다.  [Wikipedia](https://wikipedia.org/wiki/Republic_of_Venice)
 
-**1426년**
-- Lam Son 봉기: Lam Son 반란군은 현재 하노이의 Dong Quan에서 진행되는 Tot Dong-Chuc Dong 전투에서 명나라 군대에 맞서 승리합니다.  [Wikipedia](https://wikipedia.org/wiki/Lam_S%C6%A1n_uprising)
+**1519년**
+- Hernán Cortés가 Tenochtitlán에 들어가고 Aztec의 통치자 Moctezuma가 성대한 축하로 그를 환영합니다.  [Wikipedia](https://wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s)
 
-**1492년**
-- 충돌 날짜가 알려진 가장 오래된 운석인 엔시스하임 운석이 프랑스 알자스주 엔시스하임 마을 외곽의 밀밭에 지구에 충돌했습니다.  [Wikipedia](https://wikipedia.org/wiki/Ensisheim_(meteorite))
+**1520년**
+- 스웨덴의 왕으로 즉위한 크리스티안 2세는 일반 사면 약속에도 불구하고 거의 100명(주로 귀족)을 처형하라는 명령을 내렸습니다.  [Wikipedia](https://wikipedia.org/wiki/Monarchy_of_Sweden)
