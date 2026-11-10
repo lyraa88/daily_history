@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 9**에 일어난 주요 사건들
+## 📅 과거 **November 10**에 일어난 주요 사건들
 
 ---
-**694년**
-- 제17차 톨레도 공의회에서 히스파니아 서고트족의 왕 에지카(Egica)는 유대인들이 무슬림을 도왔다고 비난하고 모든 유대인을 노예로 선고했습니다.  [Wikipedia](https://wikipedia.org/wiki/Seventeenth_Council_of_Toledo)
+**474년**
+- 황제 레오 2세가 10개월의 통치 끝에 사망합니다.그의 뒤를 이어 그의 아버지 제노가 비잔틴 제국의 유일한 통치자가 되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Leo_II_(emperor))
 
-**1180년**
-- 후지가와 전투 미나모토노 요리토모 휘하의 미나모토군(3만명)이 후지강 근처에서 야습을 하던 중 다이라노 고레모리를 격파했지만 패주한 군대와 함께 무사히 탈출한다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Fujigawa)
+**937년**
+- 십국: 리비안이 왕위를 찬탈하고 양푸 황제를 폐위시킵니다.오나라는 리(현재 "서지가오"로 불림)로 대체되어 남부 당의 첫 번째 통치자가 됩니다.  [Wikipedia](https://wikipedia.org/wiki/Ten_Kingdoms)
 
-**1277년**
-- 영국의 에드워드 1세가 리웰린 압 그루퍼드에 강요한 굴욕적인 정착지인 애버콘위 조약으로 웨일스 전쟁은 일시적으로 끝났습니다.  [Wikipedia](https://wikipedia.org/wiki/Treaty_of_Aberconwy)
+**1202년**
+- 제4차 십자군: 교황 인노켄티우스 3세가 이를 금지하고 파문을 위협하는 편지를 보냈음에도 불구하고 가톨릭 십자군은 자라(현재 크로아티아 자다르)를 포위하기 시작합니다.  [Wikipedia](https://wikipedia.org/wiki/Fourth_Crusade)
 
-**1307년**
-- 기사단 장교 Hugues de Paraud는 기사단의 재판 중에 자백을 강요받습니다.그는 거짓 우상 숭배와 남색이라는 혐의로 박해를 받았습니다.  [Wikipedia](https://wikipedia.org/wiki/Knights_Templar)
+**1293년**
+- Raden Wijaya는 Java의 Majapahit 왕국의 첫 번째 군주로 즉위했으며 왕좌 이름은 Kertarajasa Jayawardhana입니다.  [Wikipedia](https://wikipedia.org/wiki/Raden_Wijaya)
 
-**1313년**
-- 바이에른 왕 루이는 감멜스도르프 전투에서 그의 사촌인 오스트리아의 프리드리히 1세를 물리쳤습니다.  [Wikipedia](https://wikipedia.org/wiki/Louis_the_Bavarian)
+**1444년**
+- 바르나 전투: 폴란드의 브와디스와프 3세(헝가리의 울라즐로 1세, 바르나의 브와디스와프 3세)의 십자군이 술탄 무라드 2세 휘하의 투르크군에게 패하고 브와디스와프가 사망합니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Varna)
