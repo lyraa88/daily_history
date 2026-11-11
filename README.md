@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 10**에 일어난 주요 사건들
+## 📅 과거 **November 11**에 일어난 주요 사건들
 
 ---
-**474년**
-- 황제 레오 2세가 10개월의 통치 끝에 사망합니다.그의 뒤를 이어 그의 아버지 제노가 비잔틴 제국의 유일한 통치자가 되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Leo_II_(emperor))
+**308년**
+- 카르눈툼에서 명예 황제 디오클레티아누스는 사분왕국의 내전을 종식시키기 위해 동방의 아우구스투스인 갈레리우스와 최근에 귀환한 서방의 아우구스투스인 막시미아누스와 협의합니다.  [Wikipedia](https://wikipedia.org/wiki/Carnuntum)
 
-**937년**
-- 십국: 리비안이 왕위를 찬탈하고 양푸 황제를 폐위시킵니다.오나라는 리(현재 "서지가오"로 불림)로 대체되어 남부 당의 첫 번째 통치자가 됩니다.  [Wikipedia](https://wikipedia.org/wiki/Ten_Kingdoms)
+**1028년**
+- 콘스탄티누스 8세가 사망하면서 66년간의 비잔틴 제국의 황제 또는 공동 황제로서의 중단 없는 통치가 끝났습니다.  [Wikipedia](https://wikipedia.org/wiki/Constantine_VIII)
 
-**1202년**
-- 제4차 십자군: 교황 인노켄티우스 3세가 이를 금지하고 파문을 위협하는 편지를 보냈음에도 불구하고 가톨릭 십자군은 자라(현재 크로아티아 자다르)를 포위하기 시작합니다.  [Wikipedia](https://wikipedia.org/wiki/Fourth_Crusade)
+**1100년**
+- 잉글랜드의 헨리 1세는 스코틀랜드의 말콤 3세의 딸이자 색슨 왕 에드먼드 아이언사이드의 직계 후손인 스코틀랜드의 마틸다와 결혼합니다.마틸다는 같은 날 즉위했습니다.  [Wikipedia](https://wikipedia.org/wiki/Henry_I_of_England)
 
-**1293년**
-- Raden Wijaya는 Java의 Majapahit 왕국의 첫 번째 군주로 즉위했으며 왕좌 이름은 Kertarajasa Jayawardhana입니다.  [Wikipedia](https://wikipedia.org/wiki/Raden_Wijaya)
+**1215년**
+- 제4차 라테란 공의회는 빵과 포도주가 그리스도의 몸과 피로 변하는 과정인 화체설을 정의하면서 소집되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Fourth_Council_of_the_Lateran)
 
-**1444년**
-- 바르나 전투: 폴란드의 브와디스와프 3세(헝가리의 울라즐로 1세, 바르나의 브와디스와프 3세)의 십자군이 술탄 무라드 2세 휘하의 투르크군에게 패하고 브와디스와프가 사망합니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Varna)
+**1500년**
+- 그라나다 조약: 프랑스의 루이 12세와 아라곤의 페르난도 2세가 나폴리 왕국을 분할하기로 합의했습니다.  [Wikipedia](https://wikipedia.org/wiki/Treaty_of_Granada_(1500))
