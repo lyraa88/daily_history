@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 11**에 일어난 주요 사건들
+## 📅 과거 **November 12**에 일어난 주요 사건들
 
 ---
-**308년**
-- 카르눈툼에서 명예 황제 디오클레티아누스는 사분왕국의 내전을 종식시키기 위해 동방의 아우구스투스인 갈레리우스와 최근에 귀환한 서방의 아우구스투스인 막시미아누스와 협의합니다.  [Wikipedia](https://wikipedia.org/wiki/Carnuntum)
+**954년**
+- 13세의 로타르 3세는 생레미 수도원에서 서프랑크 왕국의 왕으로 즉위합니다.  [Wikipedia](https://wikipedia.org/wiki/Lothair_of_France)
 
 **1028년**
-- 콘스탄티누스 8세가 사망하면서 66년간의 비잔틴 제국의 황제 또는 공동 황제로서의 중단 없는 통치가 끝났습니다.  [Wikipedia](https://wikipedia.org/wiki/Constantine_VIII)
+- 미래의 비잔틴 황후 조이(Zoe)는 로마노스 3세 아르기로스(Romanos III Argyros)의 황후 배우자로 왕좌를 차지합니다.  [Wikipedia](https://wikipedia.org/wiki/Byzantine_emperor)
 
-**1100년**
-- 잉글랜드의 헨리 1세는 스코틀랜드의 말콤 3세의 딸이자 색슨 왕 에드먼드 아이언사이드의 직계 후손인 스코틀랜드의 마틸다와 결혼합니다.마틸다는 같은 날 즉위했습니다.  [Wikipedia](https://wikipedia.org/wiki/Henry_I_of_England)
+**1330년**
+- 포사다 전투 종료: Wallachian Voivode Basarab I이 매복 공격으로 헝가리 군대를 격파합니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Posada)
 
-**1215년**
-- 제4차 라테란 공의회는 빵과 포도주가 그리스도의 몸과 피로 변하는 과정인 화체설을 정의하면서 소집되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Fourth_Council_of_the_Lateran)
+**1439년**
+- 플리머스는 영국 의회에 의해 통합된 최초의 도시가 됩니다.  [Wikipedia](https://wikipedia.org/wiki/Plymouth)
 
-**1500년**
-- 그라나다 조약: 프랑스의 루이 12세와 아라곤의 페르난도 2세가 나폴리 왕국을 분할하기로 합의했습니다.  [Wikipedia](https://wikipedia.org/wiki/Treaty_of_Granada_(1500))
+**1835년**
+- 킹스턴 어폰 헐(Kingston Upon Hull)의 윌버포스 기념비(Wilberforce Monument) 건설이 완료되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Wilberforce_Monument)
