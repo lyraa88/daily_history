@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 12**에 일어난 주요 사건들
+## 📅 과거 **November 13**에 일어난 주요 사건들
 
 ---
-**954년**
-- 13세의 로타르 3세는 생레미 수도원에서 서프랑크 왕국의 왕으로 즉위합니다.  [Wikipedia](https://wikipedia.org/wiki/Lothair_of_France)
+**1002년**
+- 영국 왕 Æthelred II는 오늘날 성 브라이스 데이 학살로 알려진 영국의 모든 덴마크인을 살해하도록 명령합니다.  [Wikipedia](https://wikipedia.org/wiki/%C3%86thelred_II)
 
-**1028년**
-- 미래의 비잔틴 황후 조이(Zoe)는 로마노스 3세 아르기로스(Romanos III Argyros)의 황후 배우자로 왕좌를 차지합니다.  [Wikipedia](https://wikipedia.org/wiki/Byzantine_emperor)
+**1093년**
+- 안윅 전투: 스코틀랜드에 대한 영국의 승리로 스코틀랜드의 말콤 3세와 그의 아들 에드워드가 사망합니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Alnwick_(1093))
 
-**1330년**
-- 포사다 전투 종료: Wallachian Voivode Basarab I이 매복 공격으로 헝가리 군대를 격파합니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Posada)
+**1160년**
+- 프랑스의 루이 7세는 샹파뉴의 아델라와 결혼한다.  [Wikipedia](https://wikipedia.org/wiki/Louis_VII_of_France)
 
-**1439년**
-- 플리머스는 영국 의회에 의해 통합된 최초의 도시가 됩니다.  [Wikipedia](https://wikipedia.org/wiki/Plymouth)
+**1642년**
+- 제1차 영국 남북전쟁: 턴햄 그린 전투: 왕당파 군대가 의회군에 맞서 철수하고 런던 점령에 실패했습니다.  [Wikipedia](https://wikipedia.org/wiki/First_English_Civil_War)
 
-**1835년**
-- 킹스턴 어폰 헐(Kingston Upon Hull)의 윌버포스 기념비(Wilberforce Monument) 건설이 완료되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Wilberforce_Monument)
+**1715년**
+- 스코틀랜드에서 자코바이트의 부상: 셰리프뮤어 전투: 영국 왕국의 군대는 자코바이트의 진격을 중단시켰지만, 그 행동은 결론이 나지 않았습니다.  [Wikipedia](https://wikipedia.org/wiki/Jacobite_rising_of_1715)
