@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 13**에 일어난 주요 사건들
+## 📅 과거 **November 14**에 일어난 주요 사건들
 
 ---
-**1002년**
-- 영국 왕 Æthelred II는 오늘날 성 브라이스 데이 학살로 알려진 영국의 모든 덴마크인을 살해하도록 명령합니다.  [Wikipedia](https://wikipedia.org/wiki/%C3%86thelred_II)
+**332 BC년**
+- 알렉산더 대왕이 이집트의 파라오로 즉위합니다.  [Wikipedia](https://wikipedia.org/wiki/Alexander_the_Great)
 
-**1093년**
-- 안윅 전투: 스코틀랜드에 대한 영국의 승리로 스코틀랜드의 말콤 3세와 그의 아들 에드워드가 사망합니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Alnwick_(1093))
+**1680년**
+- 독일의 천문학자 고트프리트 키르히(Gottfried Kirch)는 망원경으로 발견한 최초의 혜성인 1680년 대혜성을 발견했습니다.  [Wikipedia](https://wikipedia.org/wiki/Gottfried_Kirch)
 
-**1160년**
-- 프랑스의 루이 7세는 샹파뉴의 아델라와 결혼한다.  [Wikipedia](https://wikipedia.org/wiki/Louis_VII_of_France)
+**1770년**
+- James Bruce discovers what he believes to be the source of the Nile.  [Wikipedia](https://wikipedia.org/wiki/James_Bruce)
 
-**1642년**
-- 제1차 영국 남북전쟁: 턴햄 그린 전투: 왕당파 군대가 의회군에 맞서 철수하고 런던 점령에 실패했습니다.  [Wikipedia](https://wikipedia.org/wiki/First_English_Civil_War)
+**1812년**
+- 나폴레옹 전쟁: 스몰리아니 전투에서 프랑스 원수 빅토르와 우디노는 피터 비트겐슈타인 장군이 지휘하는 러시아군에게 패배했습니다.  [Wikipedia](https://wikipedia.org/wiki/Napoleonic_Wars)
 
-**1715년**
-- 스코틀랜드에서 자코바이트의 부상: 셰리프뮤어 전투: 영국 왕국의 군대는 자코바이트의 진격을 중단시켰지만, 그 행동은 결론이 나지 않았습니다.  [Wikipedia](https://wikipedia.org/wiki/Jacobite_rising_of_1715)
+**1851년**
+- 허먼 멜빌의 소설 『모비딕』이 미국에서 출간되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Moby-Dick)
