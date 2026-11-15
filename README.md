@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 14**에 일어난 주요 사건들
+## 📅 과거 **November 15**에 일어난 주요 사건들
 
 ---
-**332 BC년**
-- 알렉산더 대왕이 이집트의 파라오로 즉위합니다.  [Wikipedia](https://wikipedia.org/wiki/Alexander_the_Great)
+**655년**
+- Winwaed 전투: Mercia의 Penda가 Northumbria의 Oswiu에게 패배했습니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_the_Winwaed)
 
-**1680년**
-- 독일의 천문학자 고트프리트 키르히(Gottfried Kirch)는 망원경으로 발견한 최초의 혜성인 1680년 대혜성을 발견했습니다.  [Wikipedia](https://wikipedia.org/wiki/Gottfried_Kirch)
+**1315년**
+- 구 스위스 연방의 성장: Schweizer Eidgenossenschaft는 Morgarten 전투에서 Leopold I의 군대를 매복 공격합니다.  [Wikipedia](https://wikipedia.org/wiki/Growth_of_the_Old_Swiss_Confederacy)
 
-**1770년**
-- James Bruce discovers what he believes to be the source of the Nile.  [Wikipedia](https://wikipedia.org/wiki/James_Bruce)
+**1532년**
+- 스페인의 잉카 제국 정복: 프란시스코 피사로(Francisco Pizarro)가 지휘하는 에르난도 데 소토(Hernando de Soto) 휘하의 스페인 정복자들은 카하마르카 밖에서 처음으로 잉카 황제 아타후알파(Atahualpa)를 만나고 다음날 도시 광장에서 회의를 주선합니다.  [Wikipedia](https://wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire)
 
-**1812년**
-- 나폴레옹 전쟁: 스몰리아니 전투에서 프랑스 원수 빅토르와 우디노는 피터 비트겐슈타인 장군이 지휘하는 러시아군에게 패배했습니다.  [Wikipedia](https://wikipedia.org/wiki/Napoleonic_Wars)
+**1533년**
+- 프란시스코 피사로는 잉카 제국의 수도 쿠스코에 도착합니다.  [Wikipedia](https://wikipedia.org/wiki/Francisco_Pizarro)
 
-**1851년**
-- 허먼 멜빌의 소설 『모비딕』이 미국에서 출간되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Moby-Dick)
+**1705년**
+- Rákóczi의 독립 전쟁: 합스부르크 제국과 덴마크는 Zsibó 전투에서 헝가리의 Kurucs에 대해 군사적 승리를 거두었습니다.  [Wikipedia](https://wikipedia.org/wiki/R%C3%A1k%C3%B3czi%27s_War_of_Independence)
