@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 16**에 일어난 주요 사건들
+## 📅 과거 **November 17**에 일어난 주요 사건들
 
 ---
-**951년**
-- Li Jing 황제는 Chu를 정복하기 위해 Bian Hao 아래에서 10,000 명의 병력으로 구성된 남부 당 원정대를 보냅니다.Li Jing은 지배 가문을 자신의 수도인 난징으로 옮기고 추 왕국을 멸망시킵니다.  [Wikipedia](https://wikipedia.org/wiki/Li_Jing_(Southern_Tang))
+**887년**
+- 뚱뚱한 카를 황제는 프랑크푸르트 의회에서 프랑크족 거물들에 의해 폐위되었고, 11월 말 그의 조카인 카린티아의 아르눌프가 자신을 동프랑크 왕국의 왕으로 선포했습니다.  [Wikipedia](https://wikipedia.org/wiki/Charles_the_Fat)
 
-**1272년**
-- 제9차 십자군 기간 동안 여행하던 중, 에드워드 왕자는 잉글랜드의 헨리 3세가 사망하자 잉글랜드의 왕이 되었지만 왕위를 차지하기 위해 거의 2년 동안 영국으로 돌아오지 않았습니다.  [Wikipedia](https://wikipedia.org/wiki/Ninth_Crusade)
+**1183년**
+- 겐페이 전쟁: 미즈시마 전투는 일본 해안에서 발생하며 미나모토노 요시나카의 침략군이 다이라 가문에 의해 요격되어 패배합니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Mizushima)
 
-**1491년**
-- 아빌라 외곽의 브라세로 데 라 데헤사(Brasero de la Dehesa)에서 열린 아우토 다 페(auto-da-fé)에서는 라 구아르디아의 성자 사건이 유대인과 콘베르소 용의자들의 공개 처형으로 마무리되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Auto-da-f%C3%A9)
+**1292년**
+- 존 발리올(John Balliol)이 스코틀랜드의 왕이 됩니다.  [Wikipedia](https://wikipedia.org/wiki/John_Balliol)
 
-**1532년**
-- 프란시스코 피사로(Francisco Pizarro)와 그의 부하들은 카하마르카 전투(Battle of Cajamarca)에서 잉카 황제 아타후알파(Atahualpa)를 포로로 잡았습니다.  [Wikipedia](https://wikipedia.org/wiki/Francisco_Pizarro)
+**1405년**
+- Sharif ul-Hāshim이 술루 술탄국을 설립합니다.  [Wikipedia](https://wikipedia.org/wiki/Sharif_ul-H%C4%81shim_of_Sulu)
 
-**1632년**
-- 스웨덴의 구스타프 아돌푸스 왕은 30년 전쟁 중 뤼첸 전투에서 사망했습니다.  [Wikipedia](https://wikipedia.org/wiki/King_Gustavus_Adolphus_of_Sweden)
+**1494년**
+- 프랑스 국왕 샤를 8세가 이탈리아 피렌체를 점령했습니다.  [Wikipedia](https://wikipedia.org/wiki/Charles_VIII_of_France)
