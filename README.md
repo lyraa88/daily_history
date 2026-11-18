@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 17**에 일어난 주요 사건들
+## 📅 과거 **November 18**에 일어난 주요 사건들
 
 ---
-**887년**
-- 뚱뚱한 카를 황제는 프랑크푸르트 의회에서 프랑크족 거물들에 의해 폐위되었고, 11월 말 그의 조카인 카린티아의 아르눌프가 자신을 동프랑크 왕국의 왕으로 선포했습니다.  [Wikipedia](https://wikipedia.org/wiki/Charles_the_Fat)
+**326년**
+- 오래된 성 베드로 대성당은 교황 실베스터 1세에 의해 축성되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Old_St._Peter%27s_Basilica)
 
-**1183년**
-- 겐페이 전쟁: 미즈시마 전투는 일본 해안에서 발생하며 미나모토노 요시나카의 침략군이 다이라 가문에 의해 요격되어 패배합니다.  [Wikipedia](https://wikipedia.org/wiki/Battle_of_Mizushima)
+**401년**
+- 알라리크 1세가 이끄는 서고트족이 알프스를 넘어 이탈리아 북부를 침공했습니다.  [Wikipedia](https://wikipedia.org/wiki/Visigoths)
 
-**1292년**
-- 존 발리올(John Balliol)이 스코틀랜드의 왕이 됩니다.  [Wikipedia](https://wikipedia.org/wiki/John_Balliol)
+**1095년**
+- 클레르몽 공의회가 시작됩니다. 교황 우르바노 2세의 소집으로 제1차 성지 십자군이 시작되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Council_of_Clermont)
 
-**1405년**
-- Sharif ul-Hāshim이 술루 술탄국을 설립합니다.  [Wikipedia](https://wikipedia.org/wiki/Sharif_ul-H%C4%81shim_of_Sulu)
+**1105년**
+- 마지눌포는 교황 파스칼 2세에 맞서 대교황 실베스터 4세로 선출되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Antipope)
 
-**1494년**
-- 프랑스 국왕 샤를 8세가 이탈리아 피렌체를 점령했습니다.  [Wikipedia](https://wikipedia.org/wiki/Charles_VIII_of_France)
+**1210년**
+- 교황 인노켄티우스 3세는 시칠리아 왕국에 대한 교황의 지배를 인정하겠다고 약속한 뒤 시칠리아 왕국을 침공한 신성 로마 황제 오토 4세를 파문한다.  [Wikipedia](https://wikipedia.org/wiki/Pope_Innocent_III)
