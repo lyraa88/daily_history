@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 18**에 일어난 주요 사건들
+## 📅 과거 **November 19**에 일어난 주요 사건들
 
 ---
-**326년**
-- 오래된 성 베드로 대성당은 교황 실베스터 1세에 의해 축성되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Old_St._Peter%27s_Basilica)
+**461년**
+- 리비우스 세베루스(Libius Severus)가 서로마 제국의 황제로 선포되었습니다.진정한 힘은 마법학자 밀리툼 리시머(Ricimer)의 손에 있습니다.  [Wikipedia](https://wikipedia.org/wiki/Libius_Severus)
 
-**401년**
-- 알라리크 1세가 이끄는 서고트족이 알프스를 넘어 이탈리아 북부를 침공했습니다.  [Wikipedia](https://wikipedia.org/wiki/Visigoths)
+**636년**
+- Rashidun Caliphate는 이라크의 al-Qādisiyyah 전투에서 Sasanian 제국을 패배시킵니다.  [Wikipedia](https://wikipedia.org/wiki/Rashidun_Caliphate)
 
-**1095년**
-- 클레르몽 공의회가 시작됩니다. 교황 우르바노 2세의 소집으로 제1차 성지 십자군이 시작되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Council_of_Clermont)
+**1646년**
+- 현재 성 베드로 대성당은 같은 장소에 있던 이전 대성당을 대체하여 로마에서 축성되었습니다.  [Wikipedia](https://wikipedia.org/wiki/St._Peter%27s_Basilica)
 
-**1105년**
-- 마지눌포는 교황 파스칼 2세에 맞서 대교황 실베스터 4세로 선출되었습니다.  [Wikipedia](https://wikipedia.org/wiki/Antipope)
+**1794년**
+- 미국과 영국은 미국 독립 전쟁에서 남은 문제를 해결하기 위해 제이 조약(Jay's Treaty)에 서명했습니다.  [Wikipedia](https://wikipedia.org/wiki/Jay_Treaty)
 
-**1210년**
-- 교황 인노켄티우스 3세는 시칠리아 왕국에 대한 교황의 지배를 인정하겠다고 약속한 뒤 시칠리아 왕국을 침공한 신성 로마 황제 오토 4세를 파문한다.  [Wikipedia](https://wikipedia.org/wiki/Pope_Innocent_III)
+**1802년**
+- 가리나구호가 영국령 온두라스(현재의 벨리즈)에 도착합니다.  [Wikipedia](https://wikipedia.org/wiki/Garinagu)
