@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 19**에 일어난 주요 사건들
+## 📅 과거 **November 20**에 일어난 주요 사건들
 
 ---
-**461년**
-- 리비우스 세베루스(Libius Severus)가 서로마 제국의 황제로 선포되었습니다.진정한 힘은 마법학자 밀리툼 리시머(Ricimer)의 손에 있습니다.  [Wikipedia](https://wikipedia.org/wiki/Libius_Severus)
+**284년**
+- 디오클레티아누스가 로마 황제로 선출됩니다.  [Wikipedia](https://en.wikipedia.org/wiki/Diocletian)
 
-**636년**
-- Rashidun Caliphate는 이라크의 al-Qādisiyyah 전투에서 Sasanian 제국을 패배시킵니다.  [Wikipedia](https://wikipedia.org/wiki/Rashidun_Caliphate)
+**762년**
+- 안시 난(An Shi Rebellion) 동안 당나라는 회하(Huihe) 부족의 도움을 받아 반군으로부터 낙양(Luoyang)을 탈환했습니다.  [Wikipedia](https://en.wikipedia.org/wiki/An_Shi_Rebellion)
 
-**1646년**
-- 현재 성 베드로 대성당은 같은 장소에 있던 이전 대성당을 대체하여 로마에서 축성되었습니다.  [Wikipedia](https://wikipedia.org/wiki/St._Peter%27s_Basilica)
+**1194년**
+- 팔레르모는 신성 로마 황제 하인리히 6세에 의해 정복되었습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Palermo)
 
-**1794년**
-- 미국과 영국은 미국 독립 전쟁에서 남은 문제를 해결하기 위해 제이 조약(Jay's Treaty)에 서명했습니다.  [Wikipedia](https://wikipedia.org/wiki/Jay_Treaty)
+**1272년**
+- 아버지 잉글랜드의 헨리 3세가 사망하자 에드워드 1세가 영국의 왕이 됩니다.  [Wikipedia](https://en.wikipedia.org/wiki/Edward_I)
 
-**1802년**
-- 가리나구호가 영국령 온두라스(현재의 벨리즈)에 도착합니다.  [Wikipedia](https://wikipedia.org/wiki/Garinagu)
+**1407년**
+- 부르고뉴 공작 용맹공 존(John the Fearless)과 오를레앙 공작 발루아의 루이(Louis of Valois)는 휴전에 동의했지만, 부르고뉴는 3일 후 오를레앙을 죽였습니다.  [Wikipedia](https://en.wikipedia.org/wiki/John_the_Fearless)
