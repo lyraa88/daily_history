@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 20**에 일어난 주요 사건들
+## 📅 과거 **November 21**에 일어난 주요 사건들
 
 ---
-**284년**
-- 디오클레티아누스가 로마 황제로 선출됩니다.  [Wikipedia](https://en.wikipedia.org/wiki/Diocletian)
+**164 BCE년**
+- 하스모니아 가문의 마타시아스의 아들인 유다 마카베우스가 예루살렘 성전을 재헌납합니다. 이 행사는 매년 하누카 축제를 통해 기념됩니다.(히브리 달력으로는 키슬레우월 3597년 25일)  [Wikipedia](https://en.wikipedia.org/wiki/Judas_Maccabeus)
 
-**762년**
-- 안시 난(An Shi Rebellion) 동안 당나라는 회하(Huihe) 부족의 도움을 받아 반군으로부터 낙양(Luoyang)을 탈환했습니다.  [Wikipedia](https://en.wikipedia.org/wiki/An_Shi_Rebellion)
+**235년**
+- 교황 안테루스가 폰티아누스의 뒤를 이어 제19대 교황이 되었습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Pope_Anterus)
 
-**1194년**
-- 팔레르모는 신성 로마 황제 하인리히 6세에 의해 정복되었습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Palermo)
+**1386년**
+- 사마르칸트의 티무르는 조지아의 수도 트빌리시를 점령하고 약탈하고 조지아의 바그라트 5세 국왕을 포로로 잡았습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Timur)
 
-**1272년**
-- 아버지 잉글랜드의 헨리 3세가 사망하자 에드워드 1세가 영국의 왕이 됩니다.  [Wikipedia](https://en.wikipedia.org/wiki/Edward_I)
+**1620년**
+- 플리머스 식민지 정착민들이 메이플라워 협약에 서명함(OS 11월 11일)  [Wikipedia](https://en.wikipedia.org/wiki/Plymouth_Colony)
 
-**1407년**
-- 부르고뉴 공작 용맹공 존(John the Fearless)과 오를레앙 공작 발루아의 루이(Louis of Valois)는 휴전에 동의했지만, 부르고뉴는 3일 후 오를레앙을 죽였습니다.  [Wikipedia](https://en.wikipedia.org/wiki/John_the_Fearless)
+**1676년**
+- 덴마크 천문학자 올레 뢰머(Ole Rømer)는 최초로 빛의 속도를 정량적으로 측정했습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Astronomer)
