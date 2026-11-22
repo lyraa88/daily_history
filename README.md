@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 21**에 일어난 주요 사건들
+## 📅 과거 **November 22**에 일어난 주요 사건들
 
 ---
-**164 BCE년**
-- 하스모니아 가문의 마타시아스의 아들인 유다 마카베우스가 예루살렘 성전을 재헌납합니다. 이 행사는 매년 하누카 축제를 통해 기념됩니다.(히브리 달력으로는 키슬레우월 3597년 25일)  [Wikipedia](https://en.wikipedia.org/wiki/Judas_Maccabeus)
+**498년**
+- 아나스타시우스 2세가 죽은 후 심마쿠스는 라테라노 궁전의 교황으로 선출되고, 라우렌티우스는 산타 마리아 마조레의 교황으로 선출됩니다.  [Wikipedia](https://en.wikipedia.org/wiki/Pope_Anastasius_II)
 
-**235년**
-- 교황 안테루스가 폰티아누스의 뒤를 이어 제19대 교황이 되었습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Pope_Anterus)
+**545년**
+- 삼장 논쟁 중에 교황 비길리우스는 유스티니아누스 1세 황제의 명령에 따라 납치되어 비잔틴 제국의 종교 정책에 동의하도록 강요했습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Three-Chapter_Controversy)
 
-**1386년**
-- 사마르칸트의 티무르는 조지아의 수도 트빌리시를 점령하고 약탈하고 조지아의 바그라트 5세 국왕을 포로로 잡았습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Timur)
+**602년**
+- 모리스 황제는 콘스탄티노플에 대한 통제권을 잃고 도시를 탈출합니다.  [Wikipedia](https://en.wikipedia.org/wiki/Emperor_Maurice)
 
-**1620년**
-- 플리머스 식민지 정착민들이 메이플라워 협약에 서명함(OS 11월 11일)  [Wikipedia](https://en.wikipedia.org/wiki/Plymouth_Colony)
+**845년**
+- 브르타뉴의 첫 번째 공작인 노미노에(Nominoe)는 르동(Redon) 근처의 발롱 전투(Battle of Ballon)에서 프랑크 왕 카를 대머리(Charles the Bald)를 격파했습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Brittany)
 
-**1676년**
-- 덴마크 천문학자 올레 뢰머(Ole Rømer)는 최초로 빛의 속도를 정량적으로 측정했습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Astronomer)
+**1210년**
+- 테르메스 성은 알비파 십자군 기간 동안 4개월 간의 포위 공격 끝에 시몬 드 몽포르(Simon de Montfort)에게 함락되었습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Château_de_Termes)
