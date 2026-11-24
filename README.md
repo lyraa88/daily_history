@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 22**에 일어난 주요 사건들
+## 📅 과거 **November 24**에 일어난 주요 사건들
 
 ---
-**498년**
-- 아나스타시우스 2세가 죽은 후 심마쿠스는 라테라노 궁전의 교황으로 선출되고, 라우렌티우스는 산타 마리아 마조레의 교황으로 선출됩니다.  [Wikipedia](https://en.wikipedia.org/wiki/Pope_Anastasius_II)
+**380년**
+- 테오도시우스 1세(Theodosius I)는 콘스탄티노폴리스에 공식적으로 입성(adventus)합니다.  [Wikipedia](https://en.wikipedia.org/wiki/Theodosius_I)
 
-**545년**
-- 삼장 논쟁 중에 교황 비길리우스는 유스티니아누스 1세 황제의 명령에 따라 납치되어 비잔틴 제국의 종교 정책에 동의하도록 강요했습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Three-Chapter_Controversy)
+**496년**
+- 며칠 전 교황 젤라시우스 1세가 선종한 뒤 교황 아나스타시우스 2세가 선출됐다.  [Wikipedia](https://en.wikipedia.org/wiki/Pope_Anastasius_II)
 
-**602년**
-- 모리스 황제는 콘스탄티노플에 대한 통제권을 잃고 도시를 탈출합니다.  [Wikipedia](https://en.wikipedia.org/wiki/Emperor_Maurice)
+**847년**
+- 지진이 시리아를 강타하여 안티오크, 다마스쿠스, 모술에서 여러 명의 사상자와 피해를 입혔습니다.  [Wikipedia](https://en.wikipedia.org/wiki/847_Damascus_earthquake)
 
-**845년**
-- 브르타뉴의 첫 번째 공작인 노미노에(Nominoe)는 르동(Redon) 근처의 발롱 전투(Battle of Ballon)에서 프랑크 왕 카를 대머리(Charles the Bald)를 격파했습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Brittany)
+**1190년**
+- 몬페라트의 콘라드는 예루살렘의 이사벨 1세와 결혼하여 예루살렘의 왕이 됩니다.  [Wikipedia](https://en.wikipedia.org/wiki/Conrad_of_Montferrat)
 
-**1210년**
-- 테르메스 성은 알비파 십자군 기간 동안 4개월 간의 포위 공격 끝에 시몬 드 몽포르(Simon de Montfort)에게 함락되었습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Château_de_Termes)
+**1221년**
+- 제4차 십자군은 베네치아에 진 빚을 갚기 위해 자라를 베네치아로 데려간다.  [Wikipedia](https://en.wikipedia.org/wiki/Fourth_Crusade)
