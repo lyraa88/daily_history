@@ -11,7 +11,7 @@
 
 ---
 **380년**
-- 테오도시우스 1세(Theodosius I)는 콘스탄티노폴리스에 공식적으로 입성(adventus)합니다.  [Wikipedia](https://en.wikipedia.org/wiki/Theodosius_I)
+- 테오도시우스 1세(Theodosius I)는 콘스탄티노플에 공식적으로 입성(adventus)합니다.  [Wikipedia](https://en.wikipedia.org/wiki/Theodosius_I)
 
 **496년**
 - 며칠 전 교황 젤라시우스 1세가 선종한 뒤 교황 아나스타시우스 2세가 선출됐다.  [Wikipedia](https://en.wikipedia.org/wiki/Pope_Anastasius_II)
