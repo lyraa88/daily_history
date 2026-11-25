@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 24**에 일어난 주요 사건들
+## 📅 과거 **November 25**에 일어난 주요 사건들
 
 ---
-**380년**
-- 테오도시우스 1세(Theodosius I)는 콘스탄티노플에 공식적으로 입성(adventus)합니다.  [Wikipedia](https://en.wikipedia.org/wiki/Theodosius_I)
+**571 BC년**
+- 로마 왕 세르비우스 툴리우스(Servius Tullius)가 에트루리아에 대한 승리로 세 번의 승리 중 첫 번째 승리를 축하하고 있습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Servius_Tullius)
 
-**496년**
-- 며칠 전 교황 젤라시우스 1세가 선종한 뒤 교황 아나스타시우스 2세가 선출됐다.  [Wikipedia](https://en.wikipedia.org/wiki/Pope_Anastasius_II)
+**1034년**
+- 스코틀랜드의 왕 Máel Coluim mac Cináeda가 사망했습니다.Bethóc과 Dunkeld의 Crínán의 아들인 그의 손자 Donnchad가 왕좌를 물려받습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Máel_Coluim_II_of_Scotland)
 
-**847년**
-- 지진이 시리아를 강타하여 안티오크, 다마스쿠스, 모술에서 여러 명의 사상자와 피해를 입혔습니다.  [Wikipedia](https://en.wikipedia.org/wiki/847_Damascus_earthquake)
+**1120년**
+- 백선(White Ship)이 영국 해협에서 침몰하면서 영국 헨리 1세의 아들이자 상속자인 윌리엄 아델린(William Adelin)이 익사했습니다.  [Wikipedia](https://en.wikipedia.org/wiki/White_Ship)
 
-**1190년**
-- 몬페라트의 콘라드는 예루살렘의 이사벨 1세와 결혼하여 예루살렘의 왕이 됩니다.  [Wikipedia](https://en.wikipedia.org/wiki/Conrad_of_Montferrat)
+**1177년**
+- 예루살렘의 보두앵 4세와 샤티용의 레이날드는 몽지사르 전투에서 살라딘을 물리쳤습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Baldwin_IV_of_Jerusalem)
 
-**1221년**
-- 제4차 십자군은 베네치아에 진 빚을 갚기 위해 자라를 베네치아로 데려간다.  [Wikipedia](https://en.wikipedia.org/wiki/Fourth_Crusade)
+**1185년**
+- 교황 루키우스 3세가 사망한 후 교황 우르바노 3세가 선출됨.  [Wikipedia](https://en.wikipedia.org/wiki/1185_papal_election)
