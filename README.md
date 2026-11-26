@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 25**에 일어난 주요 사건들
+## 📅 과거 **November 26**에 일어난 주요 사건들
 
 ---
-**571 BC년**
-- 로마 왕 세르비우스 툴리우스(Servius Tullius)가 에트루리아에 대한 승리로 세 번의 승리 중 첫 번째 승리를 축하하고 있습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Servius_Tullius)
+**783년**
+- 아스투리아스의 여왕 아도신다는 조카가 마우레가투스로부터 왕좌를 탈환하는 것을 막기 위해 수도원에 갇혀 있습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Kingdom_of_Asturias)
 
-**1034년**
-- 스코틀랜드의 왕 Máel Coluim mac Cináeda가 사망했습니다.Bethóc과 Dunkeld의 Crínán의 아들인 그의 손자 Donnchad가 왕좌를 물려받습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Máel_Coluim_II_of_Scotland)
+**1161년**
+- 채시 전투(Baishi of Caishi): 진송 전쟁 중 송나라 함대가 양쯔강에서 진나라 선박과 교전을 벌입니다.  [Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Caishi)
 
-**1120년**
-- 백선(White Ship)이 영국 해협에서 침몰하면서 영국 헨리 1세의 아들이자 상속자인 윌리엄 아델린(William Adelin)이 익사했습니다.  [Wikipedia](https://en.wikipedia.org/wiki/White_Ship)
+**1346년**
+- 1346년 7월 11일 렌스에서 독일 왕으로 선출된 카를 4세는 본에서 쾰른의 발람 주교에 의해 독일 왕으로 즉위했습니다.  [Wikipedia](https://en.wikipedia.org/wiki/German_king)
 
-**1177년**
-- 예루살렘의 보두앵 4세와 샤티용의 레이날드는 몽지사르 전투에서 살라딘을 물리쳤습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Baldwin_IV_of_Jerusalem)
+**1476년**
+- Vlad the Impaler는 Stephen the Great와 Stephen V Báthory의 도움으로 Basarab Laiota를 물리치고 세 번째로 Wallachia의 통치자가 됩니다.  [Wikipedia](https://en.wikipedia.org/wiki/Vlad_the_Impaler)
 
-**1185년**
-- 교황 루키우스 3세가 사망한 후 교황 우르바노 3세가 선출됨.  [Wikipedia](https://en.wikipedia.org/wiki/1185_papal_election)
+**1778년**
+- 하와이 제도에서는 제임스 쿡 선장이 마우이를 방문한 최초의 유럽인이 되었습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Hawaiian_Islands)
