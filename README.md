@@ -7,20 +7,20 @@
 
 ---
 
-## 📅 과거 **November 26**에 일어난 주요 사건들
+## 📅 과거 **November 27**에 일어난 주요 사건들
 
 ---
-**783년**
-- 아스투리아스의 여왕 아도신다는 조카가 마우레가투스로부터 왕좌를 탈환하는 것을 막기 위해 수도원에 갇혀 있습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Kingdom_of_Asturias)
+**43년**
+- 두 번째 삼두정치에게 특별한 권한을 부여하는 티티아법(Lex Titia)이 로마 의회를 통과했습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Lex_Titia)
 
-**1161년**
-- 채시 전투(Baishi of Caishi): 진송 전쟁 중 송나라 함대가 양쯔강에서 진나라 선박과 교전을 벌입니다.  [Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Caishi)
+**25년**
+- 낙양은 한나라의 광무제에 의해 한나라의 수도로 선포되었습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Luoyang)
 
-**1346년**
-- 1346년 7월 11일 렌스에서 독일 왕으로 선출된 카를 4세는 본에서 쾰른의 발람 주교에 의해 독일 왕으로 즉위했습니다.  [Wikipedia](https://en.wikipedia.org/wiki/German_king)
+**176년**
+- 마르쿠스 아우렐리우스 황제는 그의 아들 콤모두스에게 "임페라토르(Imperator)"라는 칭호를 부여하고 그를 로마 군단의 최고 사령관으로 임명합니다.  [Wikipedia](https://en.wikipedia.org/wiki/Marcus_Aurelius)
 
-**1476년**
-- Vlad the Impaler는 Stephen the Great와 Stephen V Báthory의 도움으로 Basarab Laiota를 물리치고 세 번째로 Wallachia의 통치자가 됩니다.  [Wikipedia](https://en.wikipedia.org/wiki/Vlad_the_Impaler)
+**395년**
+- 동방 근위대장 루피누스는 가이나스 휘하의 고트족 용병들에 의해 살해된다.  [Wikipedia](https://en.wikipedia.org/wiki/Rufinus_(consul))
 
-**1778년**
-- 하와이 제도에서는 제임스 쿡 선장이 마우이를 방문한 최초의 유럽인이 되었습니다.  [Wikipedia](https://en.wikipedia.org/wiki/Hawaiian_Islands)
+**399년**
+- 전날 교황 시리치우스가 선종한 후 교황 아나스타시우스 1세가 선출됐다.  [Wikipedia](https://en.wikipedia.org/wiki/Pope_Anastasius_I)
